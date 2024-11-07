@@ -46,41 +46,7 @@ CCTV15,http://39.134.61.219/PLTV/88888888/224/3221226498/index.m3u8
 CCTV16,http://39.134.61.219/PLTV/88888888/224/3221226834/index.m3u8
 CCTV17,http://39.134.61.219/PLTV/88888888/224/3221226594/index.m3u8
 
-CCTV1,http://kxrj.site:998/123/mg.php?id=cctv1
-CCTV2,http://kxrj.site:998/123/mg.php?id=cctv2
-CCTV3,http://kxrj.site:998/123/mg.php?id=cctv3
-CCTV4,http://kxrj.site:998/123/mg.php?id=cctv4
-CCTV5,http://kxrj.site:998/123/mg.php?id=cctv5
-CCTV5+,http://kxrj.site:998/123/mg.php?id=cctv5p
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-CCTV6,http://kxrj.site:998/123/mg.php?id=cctv6
-CCTV7,http://kxrj.site:998/123/mg.php?id=cctv7
-CCTV8,http://kxrj.site:998/123/mg.php?id=cctv8
-CCTV9,http://kxrj.site:998/123/mg.php?id=cctv9
-CCTV10,http://kxrj.site:998/123/mg.php?id=cctv10
-CCTV11,http://kxrj.site:998/123/mg.php?id=cctv11
-CCTV12,http://kxrj.site:998/123/mg.php?id=cctv12
-CCTV13,http://kxrj.site:998/123/mg.php?id=cctv13
-CCTV14,http://kxrj.site:998/123/mg.php?id=cctv14
-CCTV15,http://kxrj.site:998/123/mg.php?id=cctv15
-CCTV17,http://kxrj.site:998/123/mg.php?id=cctv17
 
-CCTV1,http://p.ytelc.com/169l/0/aikan.php?id=cctv1
-CCTV2,http://p.ytelc.com/169l/0/aikan.php?id=cctv2
-CCTV3,http://p.ytelc.com/169l/0/aikan.php?id=cctv3
-CCTV4,http://p.ytelc.com/169l/0/aikan.php?id=cctv4
-CCTV5,http://p.ytelc.com/169l/0/aikan.php?id=cctv5
-CCTV6,http://p.ytelc.com/169l/0/aikan.php?id=cctv6
-CCTV7,http://p.ytelc.com/169l/0/aikan.php?id=cctv7
-CCTV8,http://p.ytelc.com/169l/0/aikan.php?id=cctv8
-CCTV9,http://p.ytelc.com/169l/0/aikan.php?id=cctv9
-CCTV10,http://p.ytelc.com/169l/0/aikan.php?id=cctv10
-CCTV11,http://p.ytelc.com/169l/0/aikan.php?id=cctv11
-CCTV12,http://p.ytelc.com/169l/0/aikan.php?id=cctv12
-CCTV13,http://p.ytelc.com/169l/0/aikan.php?id=cctv13
-CCTV14,http://p.ytelc.com/169l/0/aikan.php?id=cctv14
-CCTV15,http://p.ytelc.com/169l/0/aikan.php?id=cctv15
-CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 
 
 卫视频道,#genre#
@@ -319,6 +285,7 @@ iHOT 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 上海第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 北京文艺,http://114.243.156.93:8888/rtp/239.3.1.242:8000
+北京文艺,http://115.171.216.145:4000/udp/225.1.8.122:8002
 天津文艺,http://221.196.136.66:1/udp/225.1.1.131:5002
 
 
