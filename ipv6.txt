@@ -64,44 +64,8 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$可回看
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$可回看
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$可回看
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$可回看
-CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8$可回看
-CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$可回看
-CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$可回看
-CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$可回看
-CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$可回看
-CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8$可回看
-CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8$可回看
-CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$可回看
-CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8$可回看
-CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8$可回看
-CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$可回看
-CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$可回看
-CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8$可回看
-CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$可回看
-CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$可回看
-CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$可回看
-CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$可回看
 
 
-CCTV1,http://ku9.fr.to/smt.php?id=cctv1
-CCTV2,http://ku9.fr.to/smt.php?id=cctv2
-CCTV3,http://ku9.fr.to/smt.php?id=cctv3
-CCTV4,http://ku9.fr.to/smt.php?id=Cctv4
-CCTV4,http://ku9.fr.to/smt.php?id=cctv4
-CCTV5,http://ku9.fr.to/smt.php?id=cctv5
-CCTV5+,http://ku9.fr.to/smt.php?id=cctv5plus
-CCTV6,http://ku9.fr.to/smt.php?id=cctv6
-CCTV7,http://ku9.fr.to/smt.php?id=cctv7
-CCTV8,http://ku9.fr.to/smt.php?id=cctv8hd
-CCTV9,http://ku9.fr.to/smt.php?id=cctv9hd
-CCTV10,http://ku9.fr.to/smt.php?id=cctv10hd
-CCTV11,http://ku9.fr.to/smt.php?id=cctv11
-CCTV12,http://ku9.fr.to/smt.php?id=cctv12
-CCTV13,http://ku9.fr.to/smt.php?id=cctv13
-CCTV14,http://ku9.fr.to/smt.php?id=cctv14
-CCTV15,http://ku9.fr.to/smt.php?id=cctv15
-CCTV17,http://ku9.fr.to/smt.php?id=cctv17
 卫视频道,#genre#
 
 北京卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226739/index.m3u8
