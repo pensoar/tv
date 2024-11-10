@@ -121,7 +121,9 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 新动漫,http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
 金鹰卡通,http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
 优漫卡通,http://39.134.61.219/PLTV/88888888/224/3221226945/index.m3u8
-辽宁都市频道,http://39.134.61.219/PLTV/88888888/224/3221226524/index.m3u8
+
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="辽宁都市频道" tvg-logo="https://live.fanmingming.com/tv/LNTV2.png",辽宁都市频道http://39.134.61.219/PLTV/88888888/224/3221226524/index.m3u8
 辽宁影视剧,http://39.134.61.219/PLTV/88888888/224/3221226512/index.m3u8
 辽宁教育,http://39.134.61.219/PLTV/88888888/224/3221226473/index.m3u8
 辽宁生活,http://39.134.61.219/PLTV/88888888/224/3221226489/index.m3u8
