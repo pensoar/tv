@@ -107,6 +107,26 @@ CCTV17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 
+东森新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+中天新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
+民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
+东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+
+
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
@@ -129,25 +149,6 @@ SETZonghe,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 黃金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
-非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
-民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
-中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
-台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
-国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 
 
 
