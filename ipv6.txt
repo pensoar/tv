@@ -111,9 +111,9 @@ EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 中天新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
-非凡新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-闽镜新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-民视新闻台,http://litv.zapi.us.kg/?id=litv-ftv13
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
 台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
@@ -123,7 +123,7 @@ TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
 台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-东森财经频道,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+东森财经新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 
 
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -131,24 +131,13 @@ TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-SETZonghe,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 千禧經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8 
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-无线新闻(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-明珠剧集(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 美亞電影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-黃金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-
 
 
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
