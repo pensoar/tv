@@ -108,7 +108,6 @@ CCTV17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -131,31 +130,31 @@ SETZonghe,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 黃金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051
+民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
+民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
+中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
+台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
+国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
+东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+
+
+
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-
-EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-华视,http://37.27.111.214:8080/live/8/hls.m3u8
-民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
-民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
-TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
-asiatravel,http://37.27.111.214:8080/live/10/hls.m3u8
-HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
-TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
-动画动漫,http://37.27.111.214:8080/live/57/hls.m3u8
-Nick动画频一,http://37.27.111.214:8080/live/12/hls.m3u8
-Nick动画频二,http://37.27.111.214:8080/live/22/hls.m3u8
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-HITS,http://37.27.111.214:8080/live/28/hls.m3u8
-cinemaworld,http://37.27.111.214:8080/live/30/hls.m3u8
-TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
-BloombergTV,http://37.27.111.214:8080/live/34/hls.m3u8
 
 
 全球频道全网,#genre#
