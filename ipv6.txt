@@ -43,27 +43,6 @@ CCTV15,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-
-CCTV1,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000001
-CCTV2,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000502
-CCTV3,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000003
-CCTV4,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000503
-CCTV5,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000005
-CCTV5+,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000507
-CCTV6,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000006
-CCTV7,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000504
-CCTV8,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000008
-CCTV9,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000505
-CCTV10,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000506
-CCTV11,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000508
-CCTV12,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000509
-CCTV13,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000510
-CCTV14,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000511
-CCTV15,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000512
-CCTV16,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000016
-CCTV17,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000513
-
-
 卫视频道,#genre#
 北京卫视,http://39.134.61.219/PLTV/88888888/224/3221226449/index.m3u8
 天津卫视,http://39.134.61.219/PLTV/88888888/224/3221226465/index.m3u8
@@ -99,7 +78,6 @@ CCTV17,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000513
 辽宁公共,http://39.134.61.219/PLTV/88888888/224/3221226528/index.m3u8
 沈阳新闻,http://39.134.61.219/PLTV/88888888/224/3221226924/index.m3u8
 
-
 北京卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 天津卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 湖南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
@@ -119,37 +97,7 @@ CCTV17,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000513
 河北卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 云南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 贵州卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-陕西卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 
-
-重庆卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000517
-四川卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000025
-陕西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000026
-河南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000027
-天津卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000530
-陕西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000029
-吉林卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000030
-黑龙江卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000521
-东南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000519
-辽宁卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000526
-广东卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000520
-广西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000034
-云南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000035
-贵州卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000036
-海南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000037
-北京卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000516
-深圳卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000529
-内蒙古卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000044
-东方卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000518
-江苏卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000524
-浙江卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000531
-安徽卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000514
-山东卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000527
-山西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000053
-湖南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000523
-湖北卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000522
-江西卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000525
-河北卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000057
 
 中国港澳台,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -226,8 +174,6 @@ ArirangTV,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.
 
 
 地方频道,#genre#
-北京纪实科教,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000065
-上海纪实,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000068
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028380/1.m3u8
 上海都市,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8
 上海外语,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
@@ -259,8 +205,6 @@ ArirangTV,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 金色学堂,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-金鹰纪实,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000074
-
 求索纪录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
@@ -308,9 +252,6 @@ ArirangTV,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.
 哈哈炫动,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 黑龙江少儿,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-哈哈炫动,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000069
-优漫卡通,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000070
-嘉佳卡通,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000061
 
 新动漫,http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
 金鹰卡通,http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
