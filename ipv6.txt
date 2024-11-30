@@ -123,7 +123,7 @@ TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
 台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-东森财经新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 
 
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -133,18 +133,24 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-千禧經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8 
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-美亞電影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
-
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖天欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
 
 全球频道全网,#genre#
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
