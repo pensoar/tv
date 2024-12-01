@@ -140,7 +140,7 @@ CCTV17,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
-EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 中天新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 民视新闻台,http://litv.zapi.us.kg/?id=litv-ftv13
@@ -178,7 +178,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
 
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
-EBCFinancialNews,http://litv.zapi.us.kg/?id=4gtv-4gtv153
+东森财经新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 国际财经台,http://litv.zapi.us.kg/?id=4gtv-4gtv104
