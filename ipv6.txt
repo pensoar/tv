@@ -226,9 +226,6 @@ CGTN法语,http://175.173.198.22:9009/rtp/232.0.0.8:1234
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰卫视香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -246,6 +243,9 @@ TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
 台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -366,16 +366,6 @@ CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 漫威电影，http://jiaojirentv.top/2020/dy.php?id=6140589
 1905电影网，http://php.jdshipin.com:8880/1905.php?id=1905dy
 
-欢笑剧场,http://175.173.198.22:9009/rtp/232.0.0.98:1234
-生活时尚,http://175.173.198.22:9009/rtp/232.0.0.107:1234
-乐游,http://175.173.198.22:9009/rtp/232.0.0.108:1234
-游戏风云,http://175.173.198.22:9009/rtp/232.0.0.127:1234
-动漫秀场,http://175.173.198.22:9009/rtp/232.0.0.128:1234
-法治天地,http://175.173.198.22:9009/rtp/232.0.0.134:1234
-都市剧场,http://175.173.198.22:9009/rtp/232.0.0.149:1234
-IPTV足球,http://175.173.198.22:9009/rtp/232.0.0.213:1234
-爱上4K,http://175.173.198.22:9009/rtp/232.0.0.187:1234
-怀旧电影,http://175.173.198.22:9009/rtp/232.0.0.48:1234
 
 
 动漫频道,#genre#
