@@ -325,7 +325,6 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 黑龙江少儿,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 南京少儿,https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 BesTV青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 
