@@ -377,8 +377,8 @@ IHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 
 
 景区直播全网,#genre#
-#EXTINF:-1 tvg-name="直播中国" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/直播中国.png" group-title="央视频道",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="直播中国" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/直播中国.png" 
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 黄花城水长城02,http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
