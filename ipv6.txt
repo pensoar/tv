@@ -405,10 +405,11 @@ BesTV青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
 
 
 国际频道,#genre#
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视台,http://117.93.119.55:4022/rtp/239.49.1.9:6000
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 BBCNews,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -421,7 +422,6 @@ NBCNews,https://jmp2.uk/sam-GBBB1500004LG.m3u8
 tvN,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 
 数字组播,#genre#
@@ -429,7 +429,6 @@ NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 NEWTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NEWTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NEWTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NEWTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NEWTV古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 NEWTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NEWTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
@@ -442,7 +441,6 @@ NEWTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/
 NEWTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 NEWTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 NEWTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-
 NEWTV魅力潇湘,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 IHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 IHOT爱喜剧,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000010630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
