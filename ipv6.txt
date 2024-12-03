@@ -546,14 +546,3 @@ IHOT精品剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000
 张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 都江堰鱼嘴,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-动物园ZOO-101,http://43.138.11.122/cq/yh.php?id=G_ZOO-101
-动物园ZOO-201,http://43.138.11.122/cq/yh.php?id=G_ZOO-201
-动物园ZOO-301,http://43.138.11.122/cq/yh.php?id=G_ZOO-301
-动物园ZOO-401,http://43.138.11.122/cq/yh.php?id=G_ZOO-401
-动物园ZOO-501,http://43.138.11.122/cq/yh.php?id=G_ZOO-501
-动物园ZOO-601,http://43.138.11.122/cq/yh.php?id=G_ZOO-601
-动物园ZOO-102,http://43.138.11.122/cq/yh.php?id=G_ZOO-102
-动物园ZOO-801,http://43.138.11.122/cq/yh.php?id=G_ZOO-801
-动物园ZOO-901,http://43.138.11.122/cq/yh.php?id=G_ZOO-901
-广东国际大厦,http://43.138.11.122/cq/yh.php?id=G_GUANGDONGGJ
-广东电视中心,http://43.138.11.122/cq/yh.php?id=G_GUANGDONGDS
