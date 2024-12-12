@@ -34,6 +34,7 @@ CCTV12,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV13,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV14,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 CCTV15,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV17,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 CCTV1,http://39.134.136.161:6610/000000001000/5000000010000030810/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT3157620241201065610147025&channel-id=bestzb&Contentid=5000000010000030810
