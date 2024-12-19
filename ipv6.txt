@@ -281,6 +281,7 @@ CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 哒啵赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000097/index.m3u8
 哒啵电竞,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+足球联赛,http://39.134.136.161:6610/000000001000/3000000010000005180/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000005180
 
 
 动漫频道,#genre#
