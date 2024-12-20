@@ -396,10 +396,8 @@ IHOT精品剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000
 新疆天山(定海神针),http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
 新疆天山(定海神针),https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 平顶山鲁山县画眉谷景区,https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
-平顶山,https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
-信阳浉河港镇文新茶村,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-普洱澜沧县景迈山,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-厦门鼓浪屿渭南韩城市党家村,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+信阳浉河港镇文新茶村,https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+普洱澜沧县景迈山,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 天山天池海西平台,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
 普洱景东县无量山羊山瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
