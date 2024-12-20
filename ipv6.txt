@@ -285,7 +285,7 @@ Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 i-Fun动漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Animax,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 
 BesTV青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
