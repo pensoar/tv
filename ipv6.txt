@@ -464,7 +464,7 @@ IHOT精品剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000
 邵阳骆驼峰,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 贵州加榜梯田,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-四川四姑娘山,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+珠穆朗玛,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 宝山咖啡产业园,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 深圳红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 水库,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
