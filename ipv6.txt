@@ -1,24 +1,5 @@
 央视频道,#genre#
 
-CCTV1,http://39.134.136.161:6610/000000001000/5000000010000030810/index.m3u8?stbId=10&livemode=1&IASHttpSessionId=OTT3157620241201065610147025&channel-id=bestzb&Contentid=5000000010000030810
-CCTV2,http://39.134.61.219/PLTV/88888888/224/3221226468/index.m3u8
-CCTV3,http://39.134.61.219/PLTV/88888888/224/3221226898/index.m3u8
-CCTV4,http://39.134.61.219/PLTV/88888888/224/3221226636/index.m3u8
-CCTV5,http://39.134.61.219/PLTV/88888888/224/3221226900/index.m3u8
-CCTV5+,http://39.134.61.219/PLTV/88888888/224/3221226912/index.m3u8
-CCTV6,http://39.134.61.219/PLTV/88888888/224/3221226847/index.m3u8
-CCTV7,http://39.134.61.219/PLTV/88888888/224/3221226925/index.m3u8
-CCTV8,http://39.134.61.219/PLTV/88888888/224/3221226902/index.m3u8
-CCTV9,http://39.134.61.219/PLTV/88888888/224/3221226470/index.m3u8
-CCTV10,http://39.134.61.219/PLTV/88888888/224/3221226462/index.m3u8
-CCTV11,http://39.134.61.219/PLTV/88888888/224/3221226558/index.m3u8
-CCTV12,http://39.134.61.219/PLTV/88888888/224/3221226439/index.m3u8
-CCTV13,http://39.134.61.219/PLTV/88888888/224/3221226481/index.m3u8
-CCTV14,http://39.134.61.219/PLTV/88888888/224/3221226464/index.m3u8
-CCTV15,http://39.134.61.219/PLTV/88888888/224/3221226498/index.m3u8
-CCTV16,http://39.134.61.219/PLTV/88888888/224/3221226834/index.m3u8
-CCTV17,http://39.134.61.219/PLTV/88888888/224/3221226594/index.m3u8
-
 CCTV1,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -277,7 +258,6 @@ Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 华数4K,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 北京淘电影，http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 重温经典，http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 漫威电影，http://jiaojirentv.top/2020/dy.php?id=6140589
 1905电影网，http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -326,7 +306,6 @@ BesTV青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
 南京少儿,https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 IHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-漫画解说,http://live.nctv.top/6688/yy.php?id=1382735568$订阅源
 
 
 国际频道,#genre#
