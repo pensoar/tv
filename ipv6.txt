@@ -108,8 +108,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 河南卫视,http://[2409:8087:1a0a:df::402b]:80/wh7f454c46tw3580436585_-1356766422/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 广西卫视,http://[2409:8087:1a0a:df::404a]:80/wh7f454c46tw2753758345_1620272844/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8?icpid=88888888&RTS=1713969582&from=4&hms_devid=1212&online=1713969582&vqe=3
-云南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId=
-甘肃卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000349/index.m3u8?IASHttpSessionId=
 
 北京卫视,http://39.134.61.219/PLTV/88888888/224/3221226449/index.m3u8
 天津卫视,http://39.134.61.219/PLTV/88888888/224/3221226465/index.m3u8
@@ -128,9 +126,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 四川卫视,http://39.134.61.219/PLTV/88888888/224/3221226488/index.m3u8
 贵州卫视,http://39.134.61.219/PLTV/88888888/224/3221226616/index.m3u8
 深圳卫视,http://39.134.61.219/PLTV/88888888/224/3221226463/index.m3u8
-吉林卫视,http://39.134.61.219/PLTV/88888888/224/3221227074/index.m3u8
 海南卫视,http://39.134.61.219/PLTV/88888888/224/3221226585/index.m3u8
-江西卫视,http://39.134.61.219/PLTV/88888888/224/3221227070/index.m3u8
 河南卫视,http://39.134.61.219/PLTV/88888888/224/3221226491/index.m3u8
 广西卫视,http://39.134.61.219/PLTV/88888888/224/3221226580/index.m3u8
 河北卫视,http://39.134.61.219/PLTV/88888888/224/3221226576/index.m3u8
