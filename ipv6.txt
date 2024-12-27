@@ -134,7 +134,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
