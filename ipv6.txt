@@ -162,8 +162,6 @@ Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 地方频道,#genre#
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京纪实科教,http://39.134.136.161:6610/000000001000/5000000011000031204/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031204
-纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-七彩戏剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 东方影视,http://39.134.136.161:6610/000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
 东方财经,http://39.134.136.161:6610/000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
 五星体育,http://39.134.136.161:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
@@ -174,9 +172,6 @@ Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 南京信息,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-武术世界,http://111.61.236.247:9081/hls/60/index.m3u8
-文物宝库,http://111.61.236.247:9081/hls/64/index.m3u8
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
 
 数字记录,#genre#
