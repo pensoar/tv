@@ -412,8 +412,3 @@ IHOT爱体育,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000
 宝山咖啡产业园,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 深圳红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 水库,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-VR直播珠峰5300米,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226674/1.m3u8
-全景熊猫直播,http://39.134.50.162:80/PLTV/88888888/224/3221226688/index.m3u8
-直播南京鸡鸣寺,http://39.134.50.162:80/PLTV/88888888/224/3221226661/index.m3u8
-直播洛阳牡丹,http://39.134.50.162:80/PLTV/88888888/224/3221226665/index.m3u8
-直播荆门樱花,http://39.134.50.162:80/PLTV/88888888/224/3221226694/index.m3u8
