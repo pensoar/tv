@@ -325,7 +325,7 @@ http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 http://39.134.136.161:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.iill.top/logo/金鹰纪实.png" group-title="数字记录",金鹰纪实
 http://39.134.136.161:6610/000000001000/5000000011000031203/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031203
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://epg.iill.top/logo/之江纪录.png" group-title="数字记录",之江纪录
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://png.suparna.us.kg/pensoar/tv/blob/main/logo1/之江纪录.png" group-title="数字记录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://epg.iill.top/logo/求索动物.png" group-title="数字记录",求索动物
 http://39.134.136.161:6610/000000001000/6000000002000010046/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000010046
