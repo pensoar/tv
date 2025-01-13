@@ -241,7 +241,7 @@ IHOT爱动漫,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000
 
 
 国际频道,#genre#
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖电视台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视台,http://117.93.119.55:4022/rtp/239.49.1.9:6000
