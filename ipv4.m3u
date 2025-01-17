@@ -371,14 +371,10 @@ http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://epg.iill.top/logo/优漫卡通.png" group-title="动漫频道",优漫卡通
 http://39.134.61.219/PLTV/88888888/224/3221226945/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.iill.top/logo/哈哈炫动.png" group-title="动漫频道",哈哈炫动
-http://39.134.136.161:6610/000000001000/5000000011000031123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031123
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" group-title="动漫频道",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://epg.iill.top/logo/优漫卡通.png" group-title="动漫频道",优漫卡通
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+http://39.134.61.219/PLTV/88888888/224/3221226945/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.iill.top/logo/卡酷少儿.png" group-title="动漫频道",卡酷少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+http://39.134.61.219/PLTV/88888888/224/3221226833/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://epg.iill.top/logo/黑龙江少儿.png" group-title="动漫频道",黑龙江少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.iill.top/logo/动漫秀场.png" group-title="动漫频道",动漫秀场
@@ -389,6 +385,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/浙江少儿.png" group-title="动漫频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.iill.top/logo/哈哈炫动.png" group-title="动漫频道",哈哈炫动
+http://39.134.136.161:6610/000000001000/5000000011000031123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031123
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" group-title="动漫频道",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 
 #地方频道
