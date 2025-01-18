@@ -264,9 +264,10 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226730/index.m3
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/之江纪录.png" group-title="数字记录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="南京信息" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/南京信息.png" group-title="地方频道",南京信息
+http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
 #数字影视
-
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/amc电影台.png" group-title="数字影视",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://assets.livednow.com/logo/重温经典.png" group-title="数字影视",重温经典
@@ -303,14 +304,9 @@ https://lunbo.freetv.top/yy/1353937086
 http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.iill.top/logo/金鹰卡通.png" group-title="动漫频道",金鹰卡通
 http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://epg.iill.top/logo/优漫卡通.png" group-title="动漫频道",优漫卡通
-http://39.134.61.219/PLTV/88888888/224/3221226945/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.iill.top/logo/卡酷少儿.png" group-title="动漫频道",卡酷少儿
-http://39.134.61.219/PLTV/88888888/224/3221226833/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/浙江少儿.png" group-title="动漫频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/南京少儿.png" group-title="地方频道",南京少儿
-http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
 
 
 
