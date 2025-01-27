@@ -82,54 +82,50 @@ https://0472.org/hls/cgtna.m3u8
 
 
 #卫视频道
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.134.61.219/PLTV/88888888/224/3221226449/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/天津卫视.png" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/天津卫视.png" group-title="卫视频道",天津卫视
 http://39.134.61.219/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://39.134.61.219/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/江苏卫视.png" group-title="卫视频道",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://39.134.61.219/PLTV/88888888/224/3221226638/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/湖南卫视.png" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://39.134.61.219/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/浙江卫视.png" group-title="卫视频道",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://39.134.61.219/PLTV/88888888/224/3221226618/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/东方卫视.png" group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/东方卫视.png" group-title="卫视频道",东方卫视
 http://39.134.61.219/PLTV/88888888/224/3221226877/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/安徽卫视.png" group-title="卫视频道",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://39.134.61.219/PLTV/88888888/224/3221226447/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/山东卫视.png" group-title="卫视频道",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/山东卫视.png" group-title="卫视频道",山东卫视
 http://39.134.61.219/PLTV/88888888/224/3221226486/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/广东卫视.png" group-title="卫视频道",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/广东卫视.png" group-title="卫视频道",广东卫视
 http://39.134.61.219/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/东南卫视.png" group-title="卫视频道",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/东南卫视.png" group-title="卫视频道",东南卫视
 http://39.134.61.219/PLTV/88888888/224/3221226536/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://39.134.61.219/PLTV/88888888/224/3221226478/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/重庆卫视.png" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://39.134.61.219/PLTV/88888888/224/3221226490/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/湖北卫视.png" group-title="卫视频道",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://39.134.61.219/PLTV/88888888/224/3221226455/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/四川卫视.png" group-title="卫视频道",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/四川卫视.png" group-title="卫视频道",四川卫视
 http://39.134.61.219/PLTV/88888888/224/3221226488/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/贵州卫视.png" group-title="卫视频道",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://39.134.61.219/PLTV/88888888/224/3221226616/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/深圳卫视.png" group-title="卫视频道",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://39.134.61.219/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/海南卫视.png" group-title="卫视频道",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/海南卫视.png" group-title="卫视频道",海南卫视
 http://39.134.61.219/PLTV/88888888/224/3221226585/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/河南卫视.png" group-title="卫视频道",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/河南卫视.png" group-title="卫视频道",河南卫视
 http://39.134.61.219/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/广西卫视.png" group-title="卫视频道",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/广西卫视.png" group-title="卫视频道",广西卫视
 http://39.134.61.219/PLTV/88888888/224/3221226580/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/河北卫视.png" group-title="卫视频道",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/河北卫视.png" group-title="卫视频道",河北卫视
 http://39.134.61.219/PLTV/88888888/224/3221226576/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo=https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/云南卫视.png" group-title="卫视频道",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/云南卫视.png" group-title="卫视频道",云南卫视
 http://39.134.61.219/PLTV/88888888/224/3221226634/index.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/江西卫视.png" group-title="卫视频道",江西卫视
-http://39.134.61.213/PLTV/88888888/224/3221227070/index.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://39.134.61.213/PLTV/88888888/224/3221227074/index.m3u8
 
 
 
@@ -148,107 +144,8 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/东森新闻.png" group-title="港·澳·台", 东森新闻
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/TVBS新闻.png" group-title="港·澳·台",TVBS 新聞
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/TVBS.png" group-title="港·澳·台",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/中视.png" group-title="港·澳·台",中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/华视.png" group-title="港·澳·台",華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/TVBPlus.png" group-title="港·澳·台",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/千禧经典.png" group-title="港·澳·台",千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/明珠台.png" group-title="港·澳·台",明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/明珠台.png" group-title="港·澳·台",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/无线新闻.png" group-title="港·澳·台",無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="美亚电影台(HK)" tvg-name="美亚电影台(HK)" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/美亚电影台(HK).png" group-title="港·澳·台",美亚电影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/翡翠台.png" group-title="港·澳·台",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/翡翠台.png" group-title="港·澳·台",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/华视.png" group-title="港·澳·台",华视
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/星影台.png" group-title="港·澳·台", now 星影
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/爆谷台.png" group-title="港·澳·台", now 爆谷
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/无线新闻.png" group-title="港·澳·台",無線新聞台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/翡翠台.png" group-title="港·澳·台",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/靖天电影.png" group-title="港·澳·台",靖天電影
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/龙华日韩.png" group-title="港·澳·台",龍華日韓
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/龙华经典.png" group-title="港·澳·台",龍華經典
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/龙华电影.png" group-title="港·澳·台",龍華電影
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港·澳·台",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.iill.top/logo/寰宇新闻.png" group-title="港·澳·台",寰宇新聞
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.iill.top/logo/靖天电影.png" group-title="港·澳·台",靖天電影
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.iill.top/logo/龙华日韩.png" group-title="港·澳·台",龍華日韓
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://epg.iill.top/logo/龙华经典.png" group-title="港·澳·台",龍華經典
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="港·澳·台",龍華電影
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="IFUN动漫台" tvg-name="IFUN动漫台" tvg-logo="https://epg.iill.top/logo/IFUN动漫.png" group-title="港·澳·台", i-Fun 動漫
-http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="港·澳·台",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="港·澳·台",ViuTV
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="港·澳·台",ViuTVsix
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 tvg-id="POPC" tvg-name="POPC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="港·澳·台",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.iill.top/logo/ANIMAX.png" group-title="港·澳·台",Animax
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="港·澳·台",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="港·澳·台",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="港·澳·台",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="ASTROAECHD" tvg-name="ASTROAECHD" tvg-logo="https://epg.iill.top/logo/AEC.png" group-title="港·澳·台", astro AEC
-http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-#EXTINF:-1 tvg-id="IQIYIHD" tvg-name="IQIYIHD" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" group-title="港·澳·台", astro iQIYI
-http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-#EXTINF:-1 tvg-id="CH5(HD)" tvg-name="CH5(HD)" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="港·澳·台",Channel 5
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="CH8(HD)" tvg-name="CH8(HD)" tvg-logo="https://epg.iill.top/logo/Channel8.png" group-title="港·澳·台",Channel 8
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="CHU(HD)" tvg-name="CHU(HD)" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="港·澳·台",Channel U
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="港·澳·台",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="港·澳·台",Kix
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="港·澳·台",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 tvg-id="CNAHD" tvg-name="CNAHD" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="港·澳·台",CNA
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.iill.top/logo/DW.png" group-title="港·澳·台",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="FRANCE24EHD" tvg-name="FRANCE24EHD" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="港·澳·台",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="港·澳·台",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="港·澳·台",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="港·澳·台",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+
 
 
 #数字记录
@@ -264,8 +161,7 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226730/index.m3
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/之江纪录.png" group-title="数字记录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="南京信息" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/南京信息.png" group-title="地方频道",南京信息
-http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
 
 #数字影视
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/amc电影台.png" group-title="数字影视",AMC电影台
@@ -281,6 +177,17 @@ http://dns.yiandrive.com:15907/1905/1905b
 
 
 #动漫频道
+
+#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/国漫热播.png" group-title="动漫频道",24H国漫热播
+https://lunbo.freetv.top/yy/1353937086
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/新动漫.png" group-title="动漫频道",新动漫
+http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/金鹰卡通.png" group-title="动漫频道",金鹰卡通
+http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/浙江少儿.png" group-title="动漫频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/BesTV青春动漫.png" group-title="动漫频道",BesTV青春动漫
+http://wouu.net:9977/udp/239.93.0.146:5140
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Nickjr.png" group-title="动漫频道",Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Nickelodeon.png" group-title="动漫频道",Nickelodeon
@@ -291,17 +198,6 @@ http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Animax.png" group-title="动漫频道",Animax
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/BesTV青春动漫.png" group-title="动漫频道",BesTV青春动漫
-http://wouu.net:9977/udp/239.93.0.146:5140
-#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/国漫热播.png" group-title="动漫频道",24H国漫热播
-https://lunbo.freetv.top/yy/1353937086
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/新动漫.png" group-title="动漫频道",新动漫
-http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/金鹰卡通.png" group-title="动漫频道",金鹰卡通
-http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/浙江少儿.png" group-title="动漫频道",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
 
 
 
@@ -325,7 +221,8 @@ http://39.134.61.219/PLTV/88888888/224/3221226504/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221226515/index.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/南京教科.png" group-title="地方频道",南京教科
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-
+#EXTINF:-1 tvg-name="南京信息" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/南京信息.png" group-title="地方频道",南京信息
+http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
 
 #国际频道
@@ -364,9 +261,9 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
 #游戏赛事
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",「B站」CS 2
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」CS 2
 https://live.iill.top/bilibili/21622811
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」CS 2
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」CS 2
 https://live.iill.top/huya/483917
 #EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「B站」英雄联盟
 https://live.iill.top/bilibili/6
@@ -376,7 +273,7 @@ https://live.iill.top/huya/660000
 https://live.iill.top/huya/660001
 #EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「斗鱼」英雄联盟 𝟙
 https://live.iill.top/douyu/288016
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",「B站」英雄联盟 手游
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」英雄联盟 手游
 https://live.iill.top/bilibili/23138275
 #EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/王者荣耀.png" group-title=" 游戏赛事",「B站」王者荣耀 𝟙
 https://live.iill.top/bilibili/55
@@ -392,55 +289,55 @@ https://live.iill.top/douyu/1863767
 https://live.iill.top/huya/660004
 #EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/绝地求生.png" group-title=" 游戏赛事",「斗鱼」绝地求生
 https://live.iill.top/douyu/100
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」和平精英
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」和平精英
 https://live.iill.top/huya/660006
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」和平精英
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」和平精英
 https://live.iill.top/douyu/999
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」金铲铲之战
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」金铲铲之战
 https://live.iill.top/huya/660579
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」金铲铲之战
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」金铲铲之战
 https://live.iill.top/douyu/9715241
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」DOTA2
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」DOTA2
 https://live.iill.top/huya/660118
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」DOTA2
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」DOTA2
 https://live.iill.top/douyu/3811559
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」云顶之弈
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」云顶之弈
 https://live.iill.top/douyu/522423
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」永劫无间
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」永劫无间
 https://live.iill.top/huya/660115
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」使命召唤 手游
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」使命召唤 手游
 https://live.iill.top/huya/11718629
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」使命召唤 手游
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」使命召唤 手游
 https://live.iill.top/douyu/9223245
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」穿越火线
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」穿越火线
 https://live.iill.top/huya/660101
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」穿越火线 𝟙
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」穿越火线 𝟙
 https://live.iill.top/douyu/605964
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」穿越火线 手游
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」穿越火线 手游
 https://live.iill.top/huya/660102
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",「B站」第五人格
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」第五人格
 https://live.iill.top/bilibili/5555
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」第五人格
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」第五人格
 https://live.iill.top/douyu/3226194
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",「B站」无畏契约
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」无畏契约
 https://live.iill.top/bilibili/22908869
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 游戏赛事",「虎牙」无畏契约
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」无畏契约
 https://live.iill.top/huya/660679
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」无畏契约
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」无畏契约
 https://live.iill.top/douyu/4585645
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title=" 游戏赛事",「B站」QQ飞车 手游
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」QQ飞车 手游
 https://live.iill.top/bilibili/21743919
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」QQ飞车 手游
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」QQ飞车 手游
 https://live.iill.top/douyu/5040227
 #EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/JJ斗地主.png" group-title=" 游戏赛事",「B站」JJ斗地主
 https://live.iill.top/bilibili/22021983
 #EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/JJ斗地主.png" group-title=" 游戏赛事",「斗鱼」JJ斗地主
 https://live.iill.top/douyu/488743
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」我的世界
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」我的世界
 https://live.iill.top/douyu/738878
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」FIFA
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」FIFA
 https://live.iill.top/douyu/7692166
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title=" 游戏赛事",「斗鱼」火影忍者
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」火影忍者
 https://live.iill.top/douyu/1997723
 #EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/跑跑卡丁车.png" group-title=" 游戏赛事",「斗鱼」跑跑卡丁车
 https://live.iill.top/douyu/7722576
@@ -449,43 +346,43 @@ https://live.iill.top/douyu/6672862
 
 
 #影视轮播
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",音乐石榴「音乐」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",音乐石榴「音乐」
 https://live.iill.top/huya/17091681
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",治愈 放松「音乐」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",治愈 放松「音乐」
 https://live.iill.top/huya/21241811
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",阅读 学习「音乐」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",阅读 学习「音乐」
 https://live.iill.top/huya/21241813
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",电视剧 1「解说」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",电视剧 1「解说」
 https://live.iill.top/huya/21277391
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",动漫 1「解说」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",动漫 1「解说」
 https://live.iill.top/huya/19757963
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",恐怖电影「解说」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",恐怖电影「解说」
 https://live.iill.top/huya/23419131
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",美剧「解说」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",美剧「解说」
 https://live.iill.top/huya/20488841
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",七龙珠「解说」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",七龙珠「解说」
 https://live.iill.top/huya/25650806
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",止戈电影「解说」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",止戈电影「解说」
 https://live.iill.top/huya/19863777
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",挨饿德 1「其他」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",挨饿德 1「其他」
 https://live.iill.top/huya/20985858
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",挨饿德 2「其他」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",挨饿德 2「其他」
 https://live.iill.top/huya/17693860
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",荒野求生「其他」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",荒野求生「其他」
 https://live.iill.top/huya/593667
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",野行者「其他」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",野行者「其他」
 https://live.iill.top/huya/20072663
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",茶啊二中「动画」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",茶啊二中「动画」
 https://live.iill.top/huya/11213191
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",哆啦A梦「动漫」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",哆啦A梦「动漫」
 https://live.iill.top/huya/11601963
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",航海王「动漫」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",航海王「动漫」
 https://live.iill.top/huya/16913382
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",七龙珠「动漫」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",七龙珠「动漫」
 https://live.iill.top/huya/11601966
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",猫和老鼠「动漫」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",猫和老鼠「动漫」
 https://live.iill.top/huya/11352879
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title=" 影视轮播",中华小当家「动漫」
+#EXTINF:-1 tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/虎牙.png" group-title=" 影视轮播",中华小当家「动漫」
 https://live.iill.top/huya/11342413
 
 
