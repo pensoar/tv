@@ -183,7 +183,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/BesTV青春动漫.png" group-title="动漫频道",BesTV青春动漫
 http://wouu.net:9977/udp/239.93.0.146:5140
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Nickjr.png" group-title="动漫频道",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+http://fm1077.serv00.net/Smart.php?id=Nickjr
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Nickelodeon.png" group-title="动漫频道",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/ZooMoo.png" group-title="动漫频道",ZooMoo
