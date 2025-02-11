@@ -185,9 +185,9 @@ http://wouu.net:9977/udp/239.93.0.146:5140
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Nickjr.png" group-title="动漫频道",Nick Jr
 http://fm1077.serv00.net/Smart.php?id=Nickjr
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Nickelodeon.png" group-title="动漫频道",Nickelodeon
-http://31.148.48.15:80/Nickelodeon/index.m3u8
+http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/ZooMoo.png" group-title="动漫频道",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="iFun动漫台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/iFun动漫台.png" group-title="动漫频道",iFun动漫台
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Animax.png" group-title="动漫频道",Animax
