@@ -224,8 +224,6 @@ http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
 
 #国际频道
-#EXTINF:-1 tvg-name="金砖电视台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/金砖电视台.png" group-title="国际频道",金砖电视台
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="CNA-亚洲新闻" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/CNA.png" group-title="国际频道",CNA-亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/环球电视台.png" group-title="国际频道",环球电视台
@@ -254,6 +252,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="RTDocumentary" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/RTDoc.png" group-title="国际频道",RTDocumentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="金砖电视台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/金砖电视台.png" group-title="国际频道",金砖电视台
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 
 
