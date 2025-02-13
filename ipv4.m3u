@@ -170,8 +170,10 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://dns.yiandrive.com:15907/1905/1905a
 #EXTINF:-1 tvg-id="1905环球经典" tvg-name="1905环球经典" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/1905.png" group-title="数字影视",1905 环球经典
 http://dns.yiandrive.com:15907/1905/1905b
-
-
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/黑莓电影.png" group-title="数字影视",黑莓电影
+http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/晴彩篮球.png" group-title="数字影视",晴彩篮球
+http://39.135.133.162/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #动漫频道
 
 #EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/国漫热播.png" group-title="动漫频道",24H国漫热播
@@ -190,8 +192,8 @@ http://fm1077.serv00.net/Smart.php?id=Nickjr
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/ZooMoo.png" group-title="动漫频道",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/黑莓动画.png" group-title="动漫频道",黑莓动画
+http://39.135.133.133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 
 #地方频道
