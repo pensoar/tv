@@ -132,6 +132,7 @@ http://39.135.133.176/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/ind
 http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
 
+
 #港·澳·台
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/凤凰中文.png" group-title="港·澳·台",鳳凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -169,14 +170,46 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/重温经典.png" group-title="数字影视",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="1905极限反转" tvg-name="1905极限反转" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/1905.png" group-title="数字影视",1905 极限反转
+#EXTINF:-1 tvg-name="1905极限反转" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/1905.png" group-title="数字影视",1905 极限反转
 http://dns.yiandrive.com:15907/1905/1905a
-#EXTINF:-1 tvg-id="1905环球经典" tvg-name="1905环球经典" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/1905.png" group-title="数字影视",1905 环球经典
+#EXTINF:-1 tvg-name="1905环球经典" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/1905.png" group-title="数字影视",1905 环球经典
 http://dns.yiandrive.com:15907/1905/1905b
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/黑莓电影.png" group-title="数字影视",黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/黑莓电影.png" group-title="数字影视",黑莓电影
 http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/晴彩篮球.png" group-title="数字影视",晴彩篮球
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/晴彩篮球.png" group-title="数字影视",晴彩篮球
 http://39.135.133.162/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV军事评论.png" group-title="数字影视",NewTV军事评论
+http://39.135.133.144/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV军旅剧场.png" group-title="数字影视",NewTV军旅剧场
+http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV农业致富.png" group-title="数字影视",NewTV农业致富
+http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV古装剧场.png" group-title="数字影视",NewTV古装剧场
+http://39.135.133.148/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV惊悚悬疑.png" group-title="数字影视",NewTV惊悚悬疑
+http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV明星大片.png" group-title="数字影视",NewTV明星大片
+http://39.135.133.174/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV欢乐剧场.png" group-title="数字影视",NewTV欢乐剧场
+http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV武搏世界.png" group-title="数字影视",NewTV武搏世界
+http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV潮妈辣婆.png" group-title="数字影视",NewTV潮妈辣婆
+http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV炫舞未来.png" group-title="数字影视",NewTV炫舞未来
+http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV精品体育.png" group-title="数字影视",NewTV精品体育
+http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV超级体育.png" group-title="数字影视",NewTV超级体育
+http://39.135.133.169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV超级电影.png" group-title="数字影视",NewTV超级电影
+http://39.135.133.134/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV超级电视剧.png" group-title="数字影视",NewTV超级电视剧
+http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV超级综艺.png" group-title="数字影视",NewTV超级综艺
+http://39.135.133.171/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/NewTV金牌综艺.png" group-title="数字影视",NewTV金牌综艺
+http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
 
 #动漫频道
