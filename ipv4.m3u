@@ -172,6 +172,8 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 http://dns.yiandrive.com:15907/1905/1905a
 #EXTINF:-1 tvg-id="1905环球经典" tvg-name="1905环球经典" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/1905.png" group-title="数字影视",1905 环球经典
 http://dns.yiandrive.com:15907/1905/1905b
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/黑莓电影.png" group-title="数字影视",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
 
 #动漫频道
@@ -192,10 +194,14 @@ http://fm1077.serv00.net/Smart.php?id=Nickjr
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/ZooMoo.png" group-title="动漫频道",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="iFun动漫台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/iFun动漫台.png" group-title="动漫频道",iFun动漫台
-http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/Animax.png" group-title="动漫频道",Animax
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/黑莓动画.png" group-title="动漫频道",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/卡酷少儿.png" group-title="动漫频道",卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/优漫卡通.png" group-title="动漫频道",优漫卡通
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/黑龙江少儿.png" group-title="动漫频道",黑龙江少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
 
 
