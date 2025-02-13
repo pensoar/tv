@@ -126,7 +126,10 @@ http://39.134.61.219/PLTV/88888888/224/3221226580/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221226576/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/云南卫视.png" group-title="卫视频道",云南卫视
 http://39.134.61.219/PLTV/88888888/224/3221226634/index.m3u8
-
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/江西卫视.png" group-title="卫视频道",江西卫视
+http://39.135.133.176/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
 
 #港·澳·台
@@ -174,6 +177,8 @@ http://dns.yiandrive.com:15907/1905/1905b
 http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/晴彩篮球.png" group-title="数字影视",晴彩篮球
 http://39.135.133.162/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+
+
 #动漫频道
 
 #EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/国漫热播.png" group-title="动漫频道",24H国漫热播
