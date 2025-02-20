@@ -166,7 +166,8 @@ http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226730/index.m3
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/之江纪录.png" group-title="数字记录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/纪实科教.png" group-title="数字记录",纪实科教
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 #数字影视
 #EXTINF:-1 tvg-name="amc电影" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/amc电影台.png" group-title="数字影视",AMC电影台
