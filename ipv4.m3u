@@ -162,7 +162,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/北京纪实科教.png" group-title="数字记录",纪实科教
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226730/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/金鹰纪实.png" group-title="数字记录",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/金鹰纪实.png" group-title="数字记录",金鹰纪实
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/之江纪录.png" group-title="数字记录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
