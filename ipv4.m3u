@@ -262,8 +262,6 @@ http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/环球电视台.png" group-title="国际频道",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/环球电视台.png" group-title="国际频道",环球电视台
-http://117.93.119.55:4022/rtp/239.49.1.9:6000
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
