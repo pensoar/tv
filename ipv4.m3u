@@ -65,8 +65,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226720/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226841/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
-https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/video/CCTV-8K.mp4
 
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://github.suparna.us.kg/pensoar/tv/refs/heads/main/logo1/CGTN.png" group-title="央视频道",CGTN 国际
