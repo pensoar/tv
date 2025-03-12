@@ -210,8 +210,6 @@ http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/浙江少儿.png" group-title="动漫频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/优漫卡通.png" group-title="动漫频道",优漫卡通
-http://39.134.61.219/PLTV/88888888/224/3221226945/index.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/ZooMoo.png" group-title="动漫频道",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/黑莓动画.png" group-title="动漫频道",黑莓动画
