@@ -128,7 +128,8 @@ http://39.134.61.219/PLTV/88888888/224/3221226634/index.m3u8
 http://39.135.133.176/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://39.134.61.219/PLTV/88888888/224/3221226463/index.m3u8
 
 
 #港·澳·台
