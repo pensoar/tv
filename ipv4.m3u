@@ -145,10 +145,6 @@ http://141.11.86.78:8088/live/4gtv.php?ch=260
 https://iptv.vip-tptv.xyz/cao.php?id=ebc-news
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/东森新闻.png" group-title="港·澳·台", 东森新闻
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/Now爆谷台.png" group-title="港·澳·台", Now爆谷台
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u
-#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/Now新闻台.png" group-title="港·澳·台", Now新闻台
-https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
 
 
 #数字记录
