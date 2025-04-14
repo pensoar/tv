@@ -210,15 +210,14 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/黑莓动画.png" group-title="动漫频道",黑莓动画
 http://39.135.133.133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/Nickelodeon.png" group-title="动漫频道",Nickelodeon
-http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/Nickjr.png" group-title="动漫频道",Nick Jr
-http://178.219.128.68:64888/NICKJR
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/BesTV青春动漫.png" group-title="动漫频道",BesTV青春动漫
 http://wouu.net:9977/udp/239.93.0.146:5140
 #EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/国漫热播.png" group-title="动漫频道",24H国漫热播
 https://lunbo.freetv.top/yy/1353937086
-
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/Nickelodeon.png" group-title="动漫频道",Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/Nickjr.png" group-title="动漫频道",Nick Jr
+http://178.219.128.68:64888/NICKJR
 
 #地方频道
 #EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/辽宁都市.png" group-title="地方频道",辽宁都市
@@ -246,8 +245,6 @@ http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 #国际频道
 #EXTINF:-1 tvg-name="CNA-亚洲新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/CNA.png" group-title="国际频道",CNA-亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/环球电视台.png" group-title="国际频道",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
@@ -256,21 +253,22 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/CNN.png" group-title="国际频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="RTNews" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/RTNews.png" group-title="国际频道",RTNews
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="NHK WorldJapan" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/NHKWorldJapan.png" group-title="国际频道",NHK WorldJapan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="NBC News" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/NBCNews.png" group-title="国际频道",NBC News
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/TVN.png" group-title="国际频道",tvN
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Sports" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/TRACESportStars.png" group-title="国际频道",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="NHK WorldJapan" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/NHKWorldJapan.png" group-title="国际频道",NHK WorldJapan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="日本News24" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/日本News24.png" group-title="国际频道",日本News24
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-name="RTDocumentary" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/RTDoc.png" group-title="国际频道",RTDocumentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-
+#EXTINF:-1 tvg-name="RTNews" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/RTNews.png" group-title="国际频道",RTNews
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/环球电视台.png" group-title="国际频道",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 
 #游戏赛事
