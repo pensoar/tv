@@ -210,7 +210,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/黑莓动画.png" group-title="动漫频道",黑莓动画
 http://39.135.133.133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/kaku少儿.png" group-title="动漫频道",kaku少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/卡酷少儿.png" group-title="动漫频道",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/BesTV青春动漫.png" group-title="动漫频道",BesTV青春动漫
 http://wouu.net:9977/udp/239.93.0.146:5140
