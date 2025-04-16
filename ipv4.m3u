@@ -73,6 +73,9 @@ http://111.166.52.135:8008/gaoma/cctv4k.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
 http://111.166.52.135:8008/gaoma/cctv4k16.m3u8
 
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
+http://131.186.40.172:15002/gaoma/cctv4k16.m3u8
+
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN.png" group-title="央视频道",CGTN 国际
 https://0472.org/hls/cgtn.m3u8
