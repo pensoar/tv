@@ -293,6 +293,31 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 
+#咪咕视频
+#EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕4K.png" group-title="咪咕视频",咪咕4K-1
+http://45.45.218.253:10087/itv/3000000010000005180.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕4K.png" group-title="咪咕视频",咪咕4K-2
+http://45.45.218.253:10087/itv/3000000010000015686.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-1
+http://45.45.218.253:10087/itv/3000000001000005308.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-2
+http://45.45.218.253:10087/itv/3000000001000005969.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-3
+http://45.45.218.253:10087/itv/3000000001000007218.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-4
+http://45.45.218.253:10087/itv/3000000001000008001.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-5
+http://45.45.218.253:10087/itv/3000000001000008176.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-6
+http://45.45.218.253:10087/itv/3000000001000008379.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-7
+http://45.45.218.253:10087/itv/3000000001000010129.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-8
+http://45.45.218.253:10087/itv/3000000001000010948.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/咪咕视频.png" group-title="咪咕视频",咪咕视频-9
+http://45.45.218.253:10087/itv/3000000001000028638.m3u8?cdn=FifastbLive
+
+
 #游戏赛事
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」CS 2
 https://live.iill.top/bilibili/21622811
@@ -300,7 +325,6 @@ https://live.iill.top/bilibili/21622811
 https://live.iill.top/douyu/7722576
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/跑跑卡丁车.png" group-title=" 游戏赛事",「斗鱼」跑跑卡丁车 手游
 https://live.iill.top/douyu/6672862
-
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「B站」英雄联盟
 https://live.iill.top/bilibili/6
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「虎牙」英雄联盟 𝟙
