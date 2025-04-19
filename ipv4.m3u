@@ -281,11 +281,11 @@ http://211.141.56.169:9901/tsfile/live/1018_1.m3u8
 http://211.141.56.169:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV4K超高清.png" group-title="组播频道",CCTV4K超高清
 http://211.141.56.169:9901/tsfile/live/1025_1.m3u8
-#EXTINF:-1 tvg-name="CHC 动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC 动作电影.png" group-title="组播频道",CHC 动作电影
+#EXTINF:-1 tvg-name="CHC 动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC动作电影.png" group-title="组播频道",CHC 动作电影
 http://211.141.56.169:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 tvg-name="CHC 高清电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC 高清电影.png" group-title="组播频道",CHC 高清电影
+#EXTINF:-1 tvg-name="CHC 高清电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC高清电影.png" group-title="组播频道",CHC 高清电影
 http://211.141.56.169:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="CHC 家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC 家庭影院.png" group-title="组播频道",CHC 家庭影院
+#EXTINF:-1 tvg-name="CHC 家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC家庭影院.png" group-title="组播频道",CHC 家庭影院
 http://211.141.56.169:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/环球奇观.png" group-title="组播频道",环球奇观
 http://211.141.56.169:9901/tsfile/live/1029_1.m3u8
