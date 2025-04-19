@@ -1,0 +1,140 @@
+萌宠TV
+http://45.45.218.253:10087/bptv/10000100000000050000000003887495.m3u8
+淘BABY
+http://45.45.218.253:10087/bptv/10000100000000050000000003887497.m3u8
+淘剧场
+http://45.45.218.253:10087/bptv/10000100000000050000000003887497.m3u8
+淘电影
+http://45.45.218.253:10087/bptv/10000100000000050000000003887498.m3u8
+掏娱乐
+http://45.45.218.253:10087/bptv/10000100000000050000000003887499.m3u8
+北京4K超清
+http://45.45.218.253:10087/bptv/10000100000000050000000003887500.m3u8
+北京体育休闲
+http://45.45.218.253:10087/bptv/10000100000000050000000003870779.m3u8
+
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",爱上4K
+http://111.193.237.90:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",4K超清
+http://111.193.237.90:4022/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-name="星影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",星影
+http://111.193.237.90:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-name="每日影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",每日影院
+http://111.193.237.90:4022/# rtp/239.3.1.111:8001
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",动作影院
+http://111.193.237.90:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-name="光影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",光影
+http://111.193.237.90:4022/rtp/239.3.1.84:4120
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",喜剧影院
+http://111.193.237.90:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",家庭影院
+http://111.193.237.90:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",精选
+http://111.193.237.90:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",经典电影
+http://111.193.237.90:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",少儿动画
+http://111.193.237.90:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",热播剧场
+http://111.193.237.90:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",动画
+http://111.193.237.90:4022/rtp/239.3.1.80:4120
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",古装剧场
+http://111.193.237.90:4022/rtp/239.3.1.69:4120
+#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",城市剧场
+http://111.193.237.90:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",武侠剧场
+http://111.193.237.90:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",第一剧场
+http://113.225.141.251:8888/rtp/232.0.0.29:1234
+http://211.141.56.169:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",怀旧剧场
+http://113.225.141.251:8888/rtp/232.0.0.38:1234
+http://211.141.56.169:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云剧场
+http://113.225.141.251:8888/rtp/232.0.0.45:1234
+http://211.141.56.169:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云足球
+http://113.225.141.251:8888/rtp/232.0.0.52:1234
+http://211.141.56.169:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="CCTV音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云音乐
+http://113.225.141.251:8888/rtp/232.0.0.47:1234
+http://211.141.56.169:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="CCTV台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",央视台球
+http://113.225.141.251:8888/rtp/232.0.0.60:1234
+http://211.141.56.169:9901/tsfile/live/1028_1.m3u8
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",央视文化精品
+http://113.225.141.251:8888/rtp/232.0.0.56:1234
+http://211.141.56.169:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",世界地理
+http://113.225.141.251:8888/rtp/232.0.0.63:1234
+http://211.141.56.169:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",兵器科技
+http://113.225.141.251:8888/rtp/232.0.0.58:1234
+
+
+#EXTINF:-1 tvg-name="地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",
+http://211.141.56.169:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",CCTV4K超高清
+http://211.141.56.169:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 tvg-name="CHC 动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",CHC 动作电影
+http://211.141.56.169:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="CHC 高清电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",CHC 高清电影
+http://211.141.56.169:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="CHC 家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",CHC 家庭影院
+http://211.141.56.169:9901/tsfile/live/1010_1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/游戏竞技.png" group-title="组播频道",游戏竞技
+http://113.225.141.251:8888/rtp/232.0.0.112:1234
+#EXTINF:-1 tvg-name="电子体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/电子体育.png" group-title="组播频道",电子体育
+http://113.225.141.251:8888/rtp/232.0.0.24:1234
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/欢笑剧场4K.png" group-title="组播频道",欢笑剧场4K
+http://113.225.141.251:8888/rtp/232.0.0.98:1234
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/乐游.png" group-title="组播频道",乐游
+http://113.225.141.251:8888/rtp/232.0.0.108:1234
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/游戏风云.png" group-title="组播频道",游戏风云
+http://113.225.141.251:8888/rtp/232.0.0.127:1234
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/动漫秀场.png" group-title="组播频道",动漫秀场
+http://113.225.141.251:8888/rtp/232.0.0.128:1234
+#EXTINF:-1 tvg-name="电子体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/电子体育.png" group-title="组播频道",电子体育
+http://113.225.141.251:8888/rtp/232.0.0.24:1234
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/金色学堂.png" group-title="组播频道",金色学堂
+http://113.225.141.251:8888/rtp/232.0.0.133:1234
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/法治天地.png" group-title="组播频道",法治天地
+http://113.225.141.251:8888/rtp/232.0.0.134:1234
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/都市剧场.png" group-title="组播频道",都市剧场
+http://113.225.141.251:8888/rtp/232.0.0.149:1234
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/精选.png" group-title="组播频道",精选
+http://113.225.141.251:8888/rtp/232.0.0.102:1234
+#EXTINF:-1 tvg-name="IPTV足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/IPTV足球.png" group-title="组播频道",IPTV足球
+http://113.225.141.251:8888/rtp/232.0.0.213:1234
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/爱上4K.png" group-title="组播频道",爱上4K
+http://113.225.141.251:8888/rtp/232.0.0.187:1234
+#EXTINF:-1 tvg-name="地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/地理.png" group-title="组播频道",地理
+http://113.225.141.251:8888/rtp/232.0.0.197:1234
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/环球奇观.png" group-title="组播频道",环球奇观
+http://211.141.56.169:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 tvg-name="长影频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/长影频道.png" group-title="组播频道",长影频道
+http://211.141.56.169:9901/tsfile/live/1012_1.m3u8
+
+
+
+
+
+吉林都市
+http://211.141.56.169:9901/tsfile/live/1001_1.m3u8
+吉林综艺
+http://211.141.56.169:9901/tsfile/live/1002_1.m3u8
+吉林影视
+http://211.141.56.169:9901/tsfile/live/1003_1.m3u8
+吉林生活
+http://211.141.56.169:9901/tsfile/live/1004_1.m3u8
+吉林乡村
+http://211.141.56.169:9901/tsfile/live/1005_1.m3u8
+
+
+
+
