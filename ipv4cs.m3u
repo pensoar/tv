@@ -64,8 +64,6 @@ http://113.225.141.251:8888/rtp/232.0.0.63:1234
 http://211.141.56.169:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",兵器科技
 http://113.225.141.251:8888/rtp/232.0.0.58:1234
-
-
 #EXTINF:-1 tvg-name="地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",
 http://211.141.56.169:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",CCTV4K超高清
@@ -76,10 +74,6 @@ http://211.141.56.169:9901/tsfile/live/1008_1.m3u8
 http://211.141.56.169:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="CHC 家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",CHC 家庭影院
 http://211.141.56.169:9901/tsfile/live/1010_1.m3u8
-
-
-
-
 #EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/游戏竞技.png" group-title="组播频道",游戏竞技
 http://113.225.141.251:8888/rtp/232.0.0.112:1234
 #EXTINF:-1 tvg-name="电子体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/电子体育.png" group-title="组播频道",电子体育
