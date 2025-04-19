@@ -32,27 +32,35 @@ http://111.193.237.90:4022/rtp/239.3.1.67:4120
 http://111.193.237.90:4022/rtp/239.3.1.90:4120
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",第一剧场
 http://113.225.141.251:8888/rtp/232.0.0.29:1234
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",第一剧场
 http://211.141.56.169:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",怀旧剧场
 http://113.225.141.251:8888/rtp/232.0.0.38:1234
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",怀旧剧场
 http://211.141.56.169:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云剧场
 http://113.225.141.251:8888/rtp/232.0.0.45:1234
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云剧场
 http://211.141.56.169:9901/tsfile/live/1024_1.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云足球
 http://113.225.141.251:8888/rtp/232.0.0.52:1234
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云足球
 http://211.141.56.169:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="CCTV音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云音乐
 http://113.225.141.251:8888/rtp/232.0.0.47:1234
+#EXTINF:-1 tvg-name="CCTV音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",风云音乐
 http://211.141.56.169:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="CCTV台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",央视台球
 http://113.225.141.251:8888/rtp/232.0.0.60:1234
+#EXTINF:-1 tvg-name="CCTV台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",央视台球
 http://211.141.56.169:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",央视文化精品
 http://113.225.141.251:8888/rtp/232.0.0.56:1234
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",央视文化精品
 http://211.141.56.169:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",世界地理
 http://113.225.141.251:8888/rtp/232.0.0.63:1234
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",世界地理
 http://211.141.56.169:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",兵器科技
 http://113.225.141.251:8888/rtp/232.0.0.58:1234
@@ -104,36 +112,4 @@ http://113.225.141.251:8888/rtp/232.0.0.197:1234
 http://211.141.56.169:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 tvg-name="长影频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/长影频道.png" group-title="组播频道",长影频道
 http://211.141.56.169:9901/tsfile/live/1012_1.m3u8
-
-
-
-#萌宠TV
-http://45.45.218.253:10087/bptv/10000100000000050000000003887495.m3u8
-#淘BABY
-http://45.45.218.253:10087/bptv/10000100000000050000000003887497.m3u8
-#淘剧场
-http://45.45.218.253:10087/bptv/10000100000000050000000003887497.m3u8
-#淘电影
-http://45.45.218.253:10087/bptv/10000100000000050000000003887498.m3u8
-#掏娱乐
-http://45.45.218.253:10087/bptv/10000100000000050000000003887499.m3u8
-#北京4K超清
-http://45.45.218.253:10087/bptv/10000100000000050000000003887500.m3u8
-#北京体育休闲
-http://45.45.218.253:10087/bptv/10000100000000050000000003870779.m3u8
-
-
-#吉林都市
-http://211.141.56.169:9901/tsfile/live/1001_1.m3u8
-#吉林综艺
-http://211.141.56.169:9901/tsfile/live/1002_1.m3u8
-#吉林影视
-http://211.141.56.169:9901/tsfile/live/1003_1.m3u8
-#吉林生活
-http://211.141.56.169:9901/tsfile/live/1004_1.m3u8
-#吉林乡村
-http://211.141.56.169:9901/tsfile/live/1005_1.m3u8
-
-
-
 
