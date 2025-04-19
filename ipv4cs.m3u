@@ -1,3 +1,6 @@
+#EXTM3U x-tvg-url="https://epg.iill.top/epg" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",爱上4K
 http://111.193.237.90:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="4K超清" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/华数TV.png" group-title="组播频道",4K超清
