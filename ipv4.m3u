@@ -311,7 +311,7 @@ http://211.141.56.169:9901/tsfile/live/1023_1.m3u8
 http://211.141.56.169:9901/tsfile/live/1025_1.m3u8
 #EXTINF:-1 tvg-name="CHC 动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC动作电影.png" group-title="组播频道",CHC 动作电影
 http://211.141.56.169:9901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 tvg-name="CHC 高清电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC高清电影.png" group-title="组播频道",CHC 高清电影
+#EXTINF:-1 tvg-name="CHC 影迷电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC影迷电影.png" group-title="组播频道",CHC影迷电影
 http://211.141.56.169:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="CHC 家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC家庭影院.png" group-title="组播频道",CHC 家庭影院
 http://211.141.56.169:9901/tsfile/live/1010_1.m3u8
