@@ -160,7 +160,7 @@ https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #数字影视
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩竞技.png" group-title="数字影视",睛彩竞技
 http://222.169.34.145:40000/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/晴睛彩篮球.png" group-title="数字影视",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩篮球.png" group-title="数字影视",睛彩篮球
 http://222.169.34.145:40000/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩青少.png" group-title="数字影视",睛彩青少
 http://222.169.34.145:40000/itv/3000000020000011525.m3u8?cdn=FifastbLive
