@@ -287,8 +287,6 @@ http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 #组播频道
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV4K.png" group-title="组播频道",CCTV4K
 http://211.141.56.169:9901/tsfile/live/1025_1.m3u8
-#EXTINF:-1 tvg-name="CCTV央视高网" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV央视高网.png" group-title="组播频道",央视高网
-http://58.245.255.34:9998/tsfile/live/1037_1.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV第一剧场.png"  group-title="组播频道",第一剧场
 http://211.141.56.169:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场"  tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV怀旧剧场.png"group-title="组播频道",怀旧剧场
@@ -307,10 +305,6 @@ http://211.141.56.169:9901/tsfile/live/1022_1.m3u8
 http://211.141.56.169:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV兵器科技.png" group-title="组播频道",兵器科技
 http://211.141.56.169:9901/tsfile/live/1023_1.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/游戏风云.png" group-title="组播频道",游戏风云
-http://58.245.255.34:9998/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/动漫秀场.png" group-title="组播频道",动漫秀场
-http://58.245.255.34:9998/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="CHC 动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC动作电影.png" group-title="组播频道",CHC 动作电影
 http://211.141.56.169:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="CHC 影迷电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC影迷电影.png" group-title="组播频道",CHC影迷电影
@@ -321,6 +315,12 @@ http://211.141.56.169:9901/tsfile/live/1010_1.m3u8
 http://211.141.56.169:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 tvg-name="长影频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/长影频道.png" group-title="组播频道",长影频道
 http://211.141.56.169:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/游戏风云.png" group-title="组播频道",游戏风云
+http://58.245.255.34:9998/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/动漫秀场.png" group-title="组播频道",动漫秀场
+http://58.245.255.34:9998/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="CCTV央视高网" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV央视高网.png" group-title="组播频道",央视高网
+http://58.245.255.34:9998/tsfile/live/1037_1.m3u8
 
 
 #国际频道
