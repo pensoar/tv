@@ -248,7 +248,8 @@ http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 
 #组播频道
-
+#EXTINF:-1 tvg-name="北京4k" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/南京信息.png" group-title="组播频道"北京4k
+http://45.45.218.253:10087/bptv/10000100000000050000000003887500.m3u8
 
 #国际频道
 #EXTINF:-1 tvg-name="CNA-亚洲新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/CNA.png" group-title="国际频道",CNA-亚洲新闻
