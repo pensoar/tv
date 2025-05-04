@@ -158,18 +158,12 @@ https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 
 #数字影视
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩竞技.png" group-title="数字影视",睛彩竞技
-http://222.169.34.145:40000/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩篮球.png" group-title="数字影视",睛彩篮球
-http://222.169.34.145:40000/itv/3000000020000011529.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩青少.png" group-title="数字影视",睛彩青少
-http://222.169.34.145:40000/itv/3000000020000011525.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/重温经典.png" group-title="数字影视",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩篮球.png" group-title="数字影视",睛彩篮球
-http://39.135.133.162/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/黑莓电影.png" group-title="数字影视",黑莓电影
 http://39.135.133.138/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩篮球.png" group-title="数字影视",睛彩篮球
+http://39.135.133.162/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/NewTV精品体育.png" group-title="数字影视",NewTV精品体育
 http://39.135.133.139/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/NewTV超级体育.png" group-title="数字影视",NewTV超级体育
