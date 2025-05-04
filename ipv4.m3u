@@ -130,8 +130,6 @@ http://39.135.133.176/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/ind
 http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/河南卫视.png" group-title="卫视频道",河南卫视
 http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/山西卫视.png" group-title="卫视频道",山西卫视
-http://39.134.61.219/TVOD/88888888/224/3221227016/index.m3u8
 
 #港·澳·台
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/凤凰中文.png" group-title="港·澳·台",鳳凰中文
