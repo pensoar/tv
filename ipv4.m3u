@@ -61,6 +61,10 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226862/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226729/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png" group-title="央视频道",CCTV 14 少儿
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226720/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV15.png", group-title="央视频道",CCTV 15 音乐
+http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226796/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV16.png", group-title="央视频道",CCTV 16 奥林匹克
+http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226841/index.m3u8
 
