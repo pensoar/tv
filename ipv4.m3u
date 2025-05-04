@@ -163,12 +163,6 @@ https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 
 #数字频道
-#EXTINF:-1 tvg-name="咪咕音乐4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/咪咕音乐-4K.png", group-title="数字频道",咪咕音乐-4K
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227311/index.m3u8
-#EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/至臻视界-4K.png", group-title="数字频道",至臻视界-4K
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV兵器科技.png", group-title="数字频道",CCTV-兵器科技
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227453/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV第一剧场.png", group-title="数字频道",CCTV-第一剧场
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227444/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV电视指南.png", group-title="数字频道",CCTV-电视指南
@@ -191,6 +185,8 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227450/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227380/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV文化精品.png", group-title="数字频道",CCTV-央视文化精品
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227505/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV兵器科技.png", group-title="数字频道",CCTV-兵器科技
+http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227453/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC动作电影.png", group-title="数字频道",CHC动作电影
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227432/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CHC家庭影院.png", group-title="数字频道",CHC家庭影院
@@ -213,6 +209,10 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227420/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227435/index.m3u8
 #EXTINF:-1 tvg-name="中央新影-老故事" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CNDlgs.png", group-title="数字频道",中央新影-老故事
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227438/index.m3u8
+#EXTINF:-1 tvg-name="咪咕音乐4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/咪咕音乐-4K.png", group-title="数字频道",咪咕音乐-4K
+http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/至臻视界-4K.png", group-title="数字频道",至臻视界-4K
+http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
 
 
 #数字影视
