@@ -135,6 +135,11 @@ http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/ind
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/河南卫视.png" group-title="卫视频道",河南卫视
 http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 
+#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/北京卫视4K,.png", group-title="卫视频道",北京卫视-4K,
+http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227001/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/北京卫视4K,.png", group-title="卫视频道",北京卫视-4K,
+http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227410/index.m3u8
+
 #港·澳·台
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/凤凰中文.png" group-title="港·澳·台",鳳凰中文
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -144,7 +149,6 @@ https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 http://141.11.86.78:8088/live/4gtv.php?ch=260
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/东森新闻.png" group-title="港·澳·台", 东森新闻
 http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
-
 
 #数字记录
 #EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/LoveNarure 4K.png" group-title="数字记录",Love Nature 4K
@@ -158,6 +162,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/北京纪实科教8K.png" group-title="数字记录",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
+
+#数字频道
+#EXTINF:-1 tvg-name="咪咕音乐4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/咪咕音乐-4K.png", group-title="数字频道",咪咕音乐-4K
+http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/至臻视界-4K.png", group-title="数字频道",至臻视界-4K
+http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
 
 #数字影视
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/重温经典.png" group-title="数字影视",重温经典
