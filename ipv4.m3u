@@ -77,7 +77,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227071/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226841/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN.png" group-title="央视频道",CGTN 国际
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN.png" group-title="央视频道",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN纪录.png" group-title="央视频道",CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
@@ -273,15 +273,15 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226729/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227333/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV13.png", group-title="央视频道",CCTV13 新闻
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 动漫频道
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 少儿
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226182/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 动漫频道
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 少儿
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226720/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 动漫频道
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 少儿
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227349/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 动漫频道
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 少儿
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226789/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 动漫频道
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV14.png", group-title="央视频道",CCTV14 少儿
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226181/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CCTV15.png", group-title="央视频道",CCTV15 音乐
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226796/index.m3u8
@@ -423,6 +423,13 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227313/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226737/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/重庆卫视.png", group-title="卫视频道",重庆卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227227/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/辽宁卫视.png", group-title="地方频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226156/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/辽宁卫视.png", group-title="地方频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226689/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/辽宁卫视.png", group-title="地方频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226731/index.m3u8
+
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN.png", group-title="央视频道",CGTN
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226172/index.m3u8
 
