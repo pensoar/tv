@@ -463,7 +463,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
 
 #数字影视
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/重温经典.png" group-title="数字影视",重温经典
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/黑莓电影.png" group-title="数字影视",黑莓电影
 http://39.135.133.138/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV精品体育.png" group-title="数字影视",NewTV精品体育
@@ -500,24 +500,22 @@ http://39.135.133.171/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/ind
 http://39.135.133.155/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
 
 
-#动漫频道
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/新动漫.png" group-title="动漫频道",新动漫
+#动漫少儿
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/新动漫.png" group-title="动漫少儿",新动漫
 http://39.134.61.219/TVOD/88888888/224/3221226501/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/金鹰卡通.png" group-title="动漫频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/金鹰卡通.png" group-title="动漫少儿",金鹰卡通
 http://39.134.61.219/TVOD/88888888/224/3221226543/index.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/浙江少儿.png" group-title="动漫频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/浙江少儿.png" group-title="动漫少儿",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/ZooMoo.png" group-title="动漫频道",ZooMoo
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/ZooMoo.png" group-title="动漫少儿",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/黑莓动画.png" group-title="动漫频道",黑莓动画
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/黑莓动画.png" group-title="动漫少儿",黑莓动画
 http://39.135.133.133/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/卡酷少儿.png" group-title="动漫频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/卡酷少儿.png" group-title="动漫少儿",卡酷少儿
 http://45.45.218.253:10087/bptv/10000100000000050000000003904597.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/卡酷少儿.png" group-title="动漫频道",卡酷少儿
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221226157/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickelodeon.png" group-title="动漫频道",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickelodeon.png" group-title="动漫少儿",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickjr.png" group-title="动漫频道",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickjr.png" group-title="动漫少儿",Nick Jr
 http://178.219.128.68:64888/NICKJR
 
 
@@ -554,8 +552,6 @@ http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 #EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/茶频道.png", group-title="地方频道",湖南茶频道
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227371/index.m3u8
-#EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/先锋乒羽.png", group-title="地方频道",湖南先锋乒羽
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227365/index.m3u8
 
 #备用
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁北方.png", group-title="地方频道",辽宁北方
@@ -597,7 +593,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227331/index.m3u8
 #备用北京
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京财经.png" group-title="地方频道",北京财经
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
-#EXTINF:-1 tvg-name="北京萌宠" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京萌宠.png" group-title="地方频道",北京萌宠TV
+#EXTINF:-1 tvg-name="北京萌宠" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京萌宠TV.png" group-title="地方频道",北京萌宠TV
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京生活.png" group-title="地方频道",北京生活
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?
