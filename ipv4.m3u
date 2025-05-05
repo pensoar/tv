@@ -607,7 +607,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京体育休闲.png" group-title="地方频道",北京体育休闲
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
-#EXTINF:-1 tvg-name="北京外语" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京外语.png" group-title="地方频道",北京外语
+#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京国际.png" group-title="地方频道",北京国际
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京文艺.png" group-title="地方频道",北京文艺
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?
