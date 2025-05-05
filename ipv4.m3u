@@ -77,7 +77,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227071/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226841/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN.png" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN.png" group-title="央视频道",CGTN 国际
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN纪录.png" group-title="央视频道",CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
@@ -430,9 +430,6 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226689/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/辽宁卫视.png", group-title="卫视频道",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226731/index.m3u8
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CGTN.png", group-title="央视频道",CGTN
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226172/index.m3u8
-
 
 
 #港·澳·台
@@ -506,14 +503,8 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227478/index.m3u8
 http://39.135.133.162/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/睛彩青少.png", group-title="数字频道",睛彩青少
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227420/index.m3u8
-#EXTINF:-1 tvg-name="中央新影-老故事" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/CNDlgs.png", group-title="数字频道",中央新影-老故事
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227438/index.m3u8
-#EXTINF:-1 tvg-name="咪咕音乐4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/咪咕音乐.png", group-title="数字频道",咪咕音乐-4K
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/至臻视界.png", group-title="数字频道",至臻视界-4K
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo2/国学频道.png", group-title="数字频道",国学频道
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227435/index.m3u8
 
 
 #数字影视
@@ -611,6 +602,7 @@ http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227371/index.m3u8
 #EXTINF:-1 tvg-name="湖南先锋乒羽" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/先锋乒羽.png", group-title="地方频道",湖南先锋乒羽
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227365/index.m3u8
+
 #备用
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://ghup.pages.dev/pensoar/tv/refs/heads/main/logo1/辽宁北方.png", group-title="地方频道",辽宁北方
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226755/index.m3u8
