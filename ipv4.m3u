@@ -517,6 +517,8 @@ http://45.45.218.253:10087/bptv/10000100000000050000000003904597.m3u8
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickjr.png" group-title="动漫少儿",Nick Jr
 http://178.219.128.68:64888/NICKJR
+#EXTINF:-1 tvg-name="北京淘宝贝" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘Baby.png" group-title="地方频道",北京淘Baby
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?
 
 
 
@@ -597,8 +599,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京生活.png" group-title="地方频道",北京生活
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘宝贝" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘宝贝.png" group-title="地方频道",北京淘宝贝
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘电影.png" group-title="地方频道",北京淘电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
 #EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘剧场.png" group-title="地方频道",北京淘剧场
