@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz,https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV1.png" group-title="央视频道",CCTV1 综合
@@ -257,9 +257,9 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226869/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227352/index.m3u8
 
 #卫视备用
-#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视-4K
+#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227410/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视-4K
+#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227410/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/安徽卫视.png", group-title="卫视频道",安徽卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226746/index.m3u8
@@ -415,29 +415,29 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227291/index.m3u8
 
 #数字频道
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV第一剧场.png", group-title="数字频道",CCTV-第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV第一剧场.png", group-title="数字频道",CCTV第一剧场
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227444/index.m3u8
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV电视指南.png", group-title="数字频道",CCTV-电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV电视指南.png", group-title="数字频道",CCTV电视指南
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227374/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云剧场.png", group-title="数字频道",CCTV-风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云剧场.png", group-title="数字频道",CCTV风云剧场
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227447/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云音乐.png", group-title="数字频道",CCTV-风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云音乐.png", group-title="数字频道",CCTV风云音乐
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227502/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV-风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV*风云足球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227377/index.m3u8
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视高网.png", group-title="数字频道",CCTV-高尔夫网球
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视高网.png", group-title="数字频道",CCTV高尔夫网球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227496/index.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV怀旧剧场.png", group-title="数字频道",CCTV-怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV怀旧剧场.png", group-title="数字频道",CCTV怀旧剧场
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227499/index.m3u8
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV女性时尚.png", group-title="数字频道",CCTV-女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV女性时尚.png", group-title="数字频道",CCTV女性时尚
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227508/index.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV世界地理.png", group-title="数字频道",CCTV-世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV世界地理.png", group-title="数字频道",CCTV世界地理
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227450/index.m3u8
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视台球.png", group-title="数字频道",CCTV-央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视台球.png", group-title="数字频道",CCTV央视台球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227380/index.m3u8
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV文化精品.png", group-title="数字频道",CCTV-央视文化精品
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV文化精品.png", group-title="数字频道",CCTV央视文化精品
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227505/index.m3u8
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV兵器科技.png", group-title="数字频道",CCTV-兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV兵器科技.png", group-title="数字频道",CCTV兵器科技
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227453/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CHC动作电影.png", group-title="数字频道",CHC动作电影
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227432/index.m3u8
@@ -623,7 +623,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/BBCNews.png" group-title="国际频道",BBCNews
+#EXTINF:-1 tvg-name="BBCNews" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/BBCNews.png" group-title="国际频道",BBCNews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/CNN.png" group-title="国际频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
