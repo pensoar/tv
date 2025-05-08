@@ -92,7 +92,7 @@ https://0472.org/hls/cgtna.m3u8
 
 
 #卫视频道
-#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视-4K
+#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227001/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.134.61.219/TVOD/88888888/224/3221226449/index.m3u8
@@ -397,7 +397,7 @@ http://141.11.86.78:8088/live/4gtv.php?ch=260
 http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 
 #数字记录
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="数字记录",Love Nature 4K
+#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="数字记录",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="数字记录",纪实科教
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
