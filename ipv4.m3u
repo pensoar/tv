@@ -415,29 +415,29 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227291/index.m3u8
 
 #数字频道
-#EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV第一剧场.png", group-title="数字频道",CCTV-第一剧场
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV第一剧场.png", group-title="数字频道",CCTV-第一剧场
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227444/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV电视指南.png", group-title="数字频道",CCTV-电视指南
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV电视指南.png", group-title="数字频道",CCTV-电视指南
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227374/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云剧场.png", group-title="数字频道",CCTV-风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云剧场.png", group-title="数字频道",CCTV-风云剧场
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227447/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云音乐.png", group-title="数字频道",CCTV-风云音乐
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云音乐.png", group-title="数字频道",CCTV-风云音乐
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227502/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV-风云足球
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV-风云足球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227377/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-高尔夫网球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视高网.png", group-title="数字频道",CCTV-高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视高网.png", group-title="数字频道",CCTV-高尔夫网球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227496/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV怀旧剧场.png", group-title="数字频道",CCTV-怀旧剧场
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV怀旧剧场.png", group-title="数字频道",CCTV-怀旧剧场
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227499/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-女性时尚" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV女性时尚.png", group-title="数字频道",CCTV-女性时尚
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV女性时尚.png", group-title="数字频道",CCTV-女性时尚
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227508/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV世界地理.png", group-title="数字频道",CCTV-世界地理
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV世界地理.png", group-title="数字频道",CCTV-世界地理
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227450/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-央视台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视台球.png", group-title="数字频道",CCTV-央视台球
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视台球.png", group-title="数字频道",CCTV-央视台球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227380/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-央视文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV文化精品.png", group-title="数字频道",CCTV-央视文化精品
+#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV文化精品.png", group-title="数字频道",CCTV-央视文化精品
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227505/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV兵器科技.png", group-title="数字频道",CCTV-兵器科技
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV兵器科技.png", group-title="数字频道",CCTV-兵器科技
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227453/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CHC动作电影.png", group-title="数字频道",CHC动作电影
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227432/index.m3u8
@@ -466,37 +466,37 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/黑莓电影.png" group-title="数字影视",黑莓电影
 http://39.135.133.138/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV精品体育.png" group-title="数字影视",NewTV精品体育
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV精品体育.png" group-title="数字影视",NewTV精品体育
 http://39.135.133.139/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级体育.png" group-title="数字影视",NewTV超级体育
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级体育.png" group-title="数字影视",NewTV超级体育
 http://39.135.133.169/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV军事评论.png" group-title="数字影视",NewTV军事评论
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV军事评论.png" group-title="数字影视",NewTV军事评论
 http://39.135.133.144/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV军旅剧场.png" group-title="数字影视",NewTV军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV军旅剧场.png" group-title="数字影视",NewTV军旅剧场
 http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV农业致富.png" group-title="数字影视",NewTV农业致富
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV农业致富.png" group-title="数字影视",NewTV农业致富
 http://39.135.133.135/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV古装剧场.png" group-title="数字影视",NewTV古装剧场
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV古装剧场.png" group-title="数字影视",NewTV古装剧场
 http://39.135.133.148/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV惊悚悬疑.png" group-title="数字影视",NewTV惊悚悬疑
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV惊悚悬疑.png" group-title="数字影视",NewTV惊悚悬疑
 http://39.135.133.139/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV明星大片.png" group-title="数字影视",NewTV明星大片
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV明星大片.png" group-title="数字影视",NewTV明星大片
 http://39.135.133.174/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV欢乐剧场.png" group-title="数字影视",NewTV欢乐剧场
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV欢乐剧场.png" group-title="数字影视",NewTV欢乐剧场
 http://39.135.133.156/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV武搏世界.png" group-title="数字影视",NewTV武搏世界
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV武搏世界.png" group-title="数字影视",NewTV武搏世界
 http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV潮妈辣婆.png" group-title="数字影视",NewTV潮妈辣婆
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV潮妈辣婆.png" group-title="数字影视",NewTV潮妈辣婆
 http://39.135.133.155/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV炫舞未来.png" group-title="数字影视",NewTV炫舞未来
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV炫舞未来.png" group-title="数字影视",NewTV炫舞未来
 http://39.135.133.156/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级电影.png" group-title="数字影视",NewTV超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级电影.png" group-title="数字影视",NewTV超级电影
 http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级电视剧.png" group-title="数字影视",NewTV超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级电视剧.png" group-title="数字影视",NewTV超级电视剧
 http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级综艺.png" group-title="数字影视",NewTV超级综艺
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级综艺.png" group-title="数字影视",NewTV超级综艺
 http://39.135.133.171/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV金牌综艺.png" group-title="数字影视",NewTV金牌综艺
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV金牌综艺.png" group-title="数字影视",NewTV金牌综艺
 http://39.135.133.155/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
 
 
@@ -517,7 +517,7 @@ http://45.45.218.253:10087/bptv/10000100000000050000000003904597.m3u8
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickjr.png" group-title="动漫少儿",Nick Jr
 http://178.219.128.68:64888/NICKJR
-#EXTINF:-1 tvg-name="北京淘宝贝" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘Baby.png" group-title="动漫少儿",北京淘Baby
+#EXTINF:-1 tvg-name="北京淘Baby" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘Baby.png" group-title="动漫少儿",北京淘Baby
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?
 
 
