@@ -92,7 +92,7 @@ https://0472.org/hls/cgtna.m3u8
 
 
 #卫视频道
-#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227001/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.134.61.219/TVOD/88888888/224/3221226449/index.m3u8
@@ -257,9 +257,9 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226869/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227352/index.m3u8
 
 #卫视备用
-#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227410/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227410/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/安徽卫视.png", group-title="卫视频道",安徽卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226746/index.m3u8
