@@ -292,22 +292,22 @@ http://141.11.86.78:8088/live/4gtv.php?ch=260
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/东森新闻.png" group-title="港·澳·台", 東森新聞
 http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 
-#数字记录
-#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="数字记录",LoveNature4K
+#科教记录
+#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="科教记录",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="数字记录",北京纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="科教记录",北京纪实科教
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="数字记录",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教记录",金鹰纪实
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226714/index.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录.png" group-title="数字记录",之江纪录
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录.png" group-title="科教记录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教8K.png" group-title="数字记录",纪实科教8K
+#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教8K.png" group-title="科教记录",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png", group-title="数字记录",北京纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png", group-title="科教记录",北京纪实科教
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226730/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="数字记录",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教记录",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="数字记录",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教记录",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227291/index.m3u8
 
 #数字频道
@@ -415,11 +415,12 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 http://178.219.128.68:64888/NICKJR
 #EXTINF:-1 tvg-name="北京淘Baby" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘Baby.png" group-title="动漫少儿",北京淘Baby
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江少儿.png" group-title="动漫少儿",黑龙江少儿
+http://39.134.67.134/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
 
 
 
 #地方频道
-
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁都市.png" group-title="地方频道",辽宁都市
 http://39.135.129.132/TVOD/88888888/224/3221226524/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁影视剧.png" group-title="地方频道",辽宁影视剧
@@ -488,6 +489,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227328/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226738/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁影视剧.png", group-title="地方频道",辽宁影视剧
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227331/index.m3u8
+
 #备用北京
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京财经.png" group-title="地方频道",北京财经
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
@@ -511,6 +513,16 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京影视.png" group-title="地方频道",北京影视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
+
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江都市.png" group-title="地方频道",黑龙江都市
+http://39.134.67.148/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江农业科教.png" group-title="地方频道",黑龙江农业科教
+http://39.134.67.148/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江文体.png" group-title="地方频道",黑龙江文体
+http://39.134.67.148/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江影视.png" group-title="地方频道",黑龙江影视
+http://39.134.67.134/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+
 
 #国际频道
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/CNA.png" group-title="国际频道",CNA-亚洲新闻
