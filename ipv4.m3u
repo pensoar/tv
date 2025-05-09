@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz,https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz,https://epg.pw/xmltv/epg_HK.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV1.png" group-title="央视频道",CCTV1 综合
