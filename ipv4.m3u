@@ -279,6 +279,8 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226737/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227227/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁卫视.png", group-title="卫视频道",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226731/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁卫视.png", group-title="卫视频道",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 
 
 
