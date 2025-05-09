@@ -387,9 +387,9 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226731/index.m3u8
 
 
 #港·澳·台
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/凤凰中文.png" group-title="港·澳·台",鳳凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/凤凰中文.png" group-title="港·澳·台",凤凰中文
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/凤凰资讯.png" group-title="港·澳·台",鳳凰資訊
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/中天新闻台.png" group-title="港·澳·台",中天新聞台
 http://141.11.86.78:8088/live/4gtv.php?ch=260
@@ -399,7 +399,7 @@ http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 #数字记录
 #EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="数字记录",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="数字记录",纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="数字记录",北京纪实科教
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="数字记录",金鹰纪实
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226714/index.m3u8
