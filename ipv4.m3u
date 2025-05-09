@@ -39,44 +39,6 @@ http://39.134.61.219/TVOD/88888888/224/3221226834/index.m3u8
 http://39.134.61.219/TVOD/88888888/224/3221226594/index.m3u8
 
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226190/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV2.png" group-title="央视频道",CCTV2 财经
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226178/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV3.png", group-title="央视频道",CCTV3 综艺
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227215/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV4.png" group-title="央视频道",CCTV4 中文国际
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226692/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV5.png", group-title="央视频道",CCTV5 体育
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227218/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226745/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV6.png", group-title="央视频道",CCTV6 电影
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227221/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV7.png" group-title="央视频道",CCTV7 国防军事
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226175/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV8.png", group-title="央视频道",CCTV8 电视剧
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227325/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV9.png" group-title="央视频道",CCTV9 纪录
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV10.png" group-title="央视频道",CCTV10 科教
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226702/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV11.png" group-title="央视频道",CCTV11 戏曲
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV12.png" group-title="央视频道",CCTV12 社会与法
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226862/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV13.png" group-title="央视频道",CCTV13 新闻
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226729/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV14.png" group-title="央视频道",CCTV14 少儿
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226720/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV15.png", group-title="央视频道",CCTV15 音乐
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226796/index.m3u8
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV16.png", group-title="央视频道",CCTV16 奥林匹克
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227071/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV17.png" group-title="央视频道",CCTV17 农业农村
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226841/index.m3u8
-
-
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN.png" group-title="央视频道",CGTN 国际
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN纪录.png" group-title="央视频道",CGTN Documentary
