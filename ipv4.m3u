@@ -595,7 +595,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227331/index.m3u8
 #备用北京
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京财经.png" group-title="地方频道",北京财经
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
-#EXTINF:-1 tvg-name="北京萌宠" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京萌宠TV.png" group-title="地方频道",北京萌宠TV
+#EXTINF:-1 tvg-name="北京萌宠TV" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京萌宠TV.png" group-title="地方频道",北京萌宠TV
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京生活.png" group-title="地方频道",北京生活
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?
