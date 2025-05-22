@@ -102,8 +102,6 @@ http://39.135.129.132/TVOD/88888888/224/3221226634/index.m3u8
 http://39.135.133.176/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/河南卫视.png" group-title="卫视频道",河南卫视
-http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 
 
 #央视备用
@@ -408,8 +406,6 @@ http://45.45.218.253:10087/bptv/10000100000000050000000003904597.m3u8
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickjr.png" group-title="动漫少儿",Nick Jr
 http://178.219.128.68:64888/NICKJR
-#EXTINF:-1 tvg-name="北京淘Baby" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘Baby.png" group-title="动漫少儿",北京淘Baby
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江少儿.png" group-title="动漫少儿",黑龙江少儿
 http://39.134.67.148/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
@@ -484,29 +480,6 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226738/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁影视剧.png", group-title="地方频道",辽宁影视剧
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227331/index.m3u8
 
-#北京
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京财经.png" group-title="地方频道",北京财经
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
-#EXTINF:-1 tvg-name="北京萌宠TV" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京萌宠TV.png" group-title="地方频道",北京萌宠TV
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京生活.png" group-title="地方频道",北京生活
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘电影.png" group-title="地方频道",北京淘电影
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘剧场.png" group-title="地方频道",北京淘剧场
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?
-#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京淘娱乐.png" group-title="地方频道",北京淘娱乐
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京体育休闲.png" group-title="地方频道",北京体育休闲
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
-#EXTINF:-1 tvg-name="北京国际" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京国际.png" group-title="地方频道",北京国际
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京文艺.png" group-title="地方频道",北京文艺
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京新闻.png" group-title="地方频道",北京新闻
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京影视.png" group-title="地方频道",北京影视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
 #黑龙江
 #EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江都市.png" group-title="地方频道",黑龙江都市
 http://39.134.67.148/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
