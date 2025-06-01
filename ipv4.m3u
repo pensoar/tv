@@ -502,8 +502,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/CNN.png" group-title="国际频道",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/NBCNews.png" group-title="国际频道",NBC News
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
+
 #EXTINF:-1 tvg-name="Trace Sports" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/TRACESportStars.png" group-title="国际频道",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
