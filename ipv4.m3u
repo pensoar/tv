@@ -286,10 +286,16 @@ http://ali.hlspull.yximgs.com/live/f46af3e15ee89e76d4d846ba04258ece.flv
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7dD94h&tk=Rxa4XG2JITwz
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/东森新闻.png" group-title="港·澳·台", 東森新聞
 http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/寰宇新闻.png" group-title="港·澳·台", 寰宇新闻
+http://ali.hlspull.yximgs.com/live/b00e5a1c1ed0f660a39b04d0c6edef4c.flv
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/无线新闻台.png" group-title="港·澳·台", 无线新闻台
+http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
 
 #科教记录
 #EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="科教记录",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/动物星球.png" group-title="科教记录",动物星球
+http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmldongwuxql00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="科教记录",北京纪实科教
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教记录",金鹰纪实
