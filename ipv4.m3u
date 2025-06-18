@@ -287,30 +287,30 @@ http://ali.hlspull.yximgs.com/live/b00e5a1c1ed0f660a39b04d0c6edef4c.flv
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/无线新闻台.png" group-title="港·澳·台", 无线新闻台
 http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
 
-#科教记录
-#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="科教记录",LoveNature4K
+#科教纪录
+#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="科教纪录",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="科教记录",北京纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="科教纪录",北京纪实科教
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教记录",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教纪录",金鹰纪实
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226714/index.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录.png" group-title="科教记录",之江纪录
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录.png" group-title="科教纪录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教8K.png" group-title="科教记录",纪实科教8K
+#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教8K.png" group-title="科教纪录",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png", group-title="科教记录",北京纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png", group-title="科教纪录",北京纪实科教
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226730/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教记录",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教纪录",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教记录",金鹰纪实
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教纪录",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227291/index.m3u8
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索动物.png", group-title="科教记录",求索动物
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索动物.png", group-title="科教纪录",求索动物
 http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索纪录.png", group-title="科教记录",求索纪录
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索纪录.png", group-title="科教纪录",求索纪录
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索科学.png", group-title="科教记录",求索科学
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索科学.png", group-title="科教纪录",求索科学
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索生活.png", group-title="科教记录",求索生活
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索生活.png", group-title="科教纪录",求索生活
 http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 
 
