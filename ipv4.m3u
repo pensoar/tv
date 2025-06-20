@@ -284,7 +284,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教纪录",金鹰纪实
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226714/index.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录.png" group-title="科教纪录",之江纪录
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录频道.png" group-title="科教纪录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教8K.png" group-title="科教纪录",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
@@ -394,7 +394,7 @@ http://39.135.133.155/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/ind
 #动漫少儿
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/新动漫.png" group-title="动漫少儿",新动漫
 http://39.135.129.132/TVOD/88888888/224/3221226501/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/金鹰卡通.png" group-title="动漫少儿",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰卡通.png" group-title="动漫少儿",金鹰卡通
 http://39.135.129.132/TVOD/88888888/224/3221226543/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/浙江少儿.png" group-title="动漫少儿",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -408,7 +408,7 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 http://178.219.128.68:64888/NICKJR
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江少儿.png" group-title="动漫少儿",黑龙江少儿
 http://39.134.65.106/TVOD/88888888/224/3221225979/1.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/哈哈炫动.png" group-title="动漫少儿",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/哈哈炫动.png" group-title="动漫少儿",哈哈炫动
 http://39.134.65.106/TVOD/88888888/224/3221225534/1.m3u8
 
 
@@ -429,13 +429,13 @@ http://39.135.129.132/TVOD/88888888/224/3221226916/index.m3u8
 http://39.135.129.132/TVOD/88888888/224/3221226504/index.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁北方.png" group-title="地方频道",辽宁北方
 http://39.135.129.132/TVOD/88888888/224/3221226515/index.m3u8
-#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/梨园频道.png", group-title="地方频道",梨园频道
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/梨园频道.png", group-title="地方频道",梨园频道
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227362/index.m3u8
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/书画频道.png", group-title="地方频道",书画频道
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/书画频道.png", group-title="地方频道",书画频道
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227493/index.m3u8
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/文物宝库.png", group-title="地方频道",文物宝库
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/文物宝库.png", group-title="地方频道",文物宝库
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227359/index.m3u8
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/武术世界.png", group-title="地方频道",武术世界
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/武术世界.png", group-title="地方频道",武术世界
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227487/index.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/南京教科.png" group-title="地方频道",南京教科
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
