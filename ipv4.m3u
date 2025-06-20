@@ -276,16 +276,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 
 
 #港·澳·台
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/凤凰中文.png" group-title="港·澳·台",凤凰中文
-http://ali.hlspull.yximgs.com/live/e14bbe29079fd18a8e8b445ce7fcc3dd.flv
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://ali.hlspull.yximgs.com/live/8803fa3dbc8b9adb24010f8fb5c44e02.flv
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/中天新闻台.png" group-title="港·澳·台",中天新聞台
-http://ali.hlspull.yximgs.com/live/f46af3e15ee89e76d4d846ba04258ece.flv
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/寰宇新闻.png" group-title="港·澳·台", 寰宇新闻
-http://ali.hlspull.yximgs.com/live/b00e5a1c1ed0f660a39b04d0c6edef4c.flv
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/无线新闻台.png" group-title="港·澳·台", 无线新闻台
-http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
 
 #科教纪录
 #EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/LoveNarure 4K.png" group-title="科教纪录",LoveNature4K
