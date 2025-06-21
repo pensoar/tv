@@ -431,7 +431,7 @@ http://39.135.129.132/TVOD/88888888/224/3221226504/index.m3u8
 http://39.135.129.132/TVOD/88888888/224/3221226515/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/梨园频道.png", group-title="地方频道",梨园频道
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227362/index.m3u8
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/书画频道.png", group-title="地方频道",书画频道
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/书画频道.png", group-title="地方频道",书画频道
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227493/index.m3u8
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/文物宝库.png", group-title="地方频道",文物宝库
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227359/index.m3u8
