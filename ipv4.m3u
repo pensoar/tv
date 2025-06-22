@@ -2,7 +2,7 @@
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://39.135.129.170/TVOD/88888888/224/3221226443/1.index.m3u8
+http://39.135.129.170/TVOD/88888888/224/3221226443/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV2.png" group-title="央视频道",CCTV2 财经
 http://39.135.129.170/TVOD/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV3.png" group-title="央视频道",CCTV3 综艺
