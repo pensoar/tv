@@ -312,7 +312,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227374/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227447/index.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云音乐.png", group-title="数字频道",CCTV风云音乐
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227502/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV*风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV风云足球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227377/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视高网.png", group-title="数字频道",CCTV高尔夫网球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227496/index.m3u8
