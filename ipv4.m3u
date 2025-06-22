@@ -435,12 +435,12 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227493/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227359/index.m3u8
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/武术世界.png", group-title="地方频道",武术世界
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227487/index.m3u8
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/茶频道.png", group-title="地方频道",湖南茶频道
+http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227371/index.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/南京教科.png" group-title="地方频道",南京教科
 http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 #EXTINF:-1 tvg-name="南京信息" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/南京信息.png" group-title="地方频道",南京信息
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/茶频道.png", group-title="地方频道",湖南茶频道
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227371/index.m3u8
 
 #备用
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁北方.png", group-title="地方频道",辽宁北方
