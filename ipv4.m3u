@@ -2,11 +2,11 @@
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://39.135.129.170/TVOD/88888888/224/3221226443/index.m3u8
+http://39.135.129.170/TVOD/88888888/224/3221226443/1.index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV2.png" group-title="央视频道",CCTV2 财经
-http://39.135.129.170/TVOD/88888888/224/3221226468/index.m3u8
+http://39.135.129.133/TVOD/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV3.png" group-title="央视频道",CCTV3 综艺
-http://39.135.129.170/TVOD/88888888/224/3221226898/index.m3u8
+http://39.135.129.133/TVOD/88888888/224/3221226898/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV4.png" group-title="央视频道",CCTV4 中文国际
 http://39.135.129.170/TVOD/88888888/224/3221226636/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV5.png" group-title="央视频道",CCTV5 体育
@@ -16,27 +16,27 @@ http://39.135.129.170/TVOD/88888888/224/3221226912/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV6.png" group-title="央视频道",CCTV6 电影
 http://39.135.129.170/TVOD/88888888/224/3221226847/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV7.png" group-title="央视频道",CCTV7 国防军事
-http://39.135.129.170/TVOD/88888888/224/3221226925/index.m3u8
+http://39.135.129.175/TVOD/88888888/224/3221226925/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV8.png" group-title="央视频道",CCTV8 电视剧
-http://39.135.129.170/TVOD/88888888/224/3221226902/index.m3u8
+http://39.135.129.169/TVOD/88888888/224/3221226902/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV9.png" group-title="央视频道",CCTV9 纪录
-http://39.135.129.170/TVOD/88888888/224/3221226470/index.m3u8
+http://39.135.129.163/TVOD/88888888/224/3221226470/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV10.png" group-title="央视频道",CCTV10 科教
-http://39.135.129.170/TVOD/88888888/224/3221226462/index.m3u8
+http://39.135.129.160/TVOD/88888888/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV11.png" group-title="央视频道",CCTV11 戏曲
-http://39.135.129.170/TVOD/88888888/224/3221226558/index.m3u8
+http://39.135.129.133/TVOD/88888888/224/3221226558/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV12.png" group-title="央视频道",CCTV12 社会与法
-http://39.135.129.170/TVOD/88888888/224/3221226439/index.m3u8
+http://39.135.129.145/TVOD/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV13.png" group-title="央视频道",CCTV13 新闻
 http://39.135.129.170/TVOD/88888888/224/3221226481/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV14.png" group-title="央视频道",CCTV14 少儿
 http://39.135.129.170/TVOD/88888888/224/3221226464/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV15.png" group-title="央视频道",CCTV15 音乐
-http://39.135.129.170/TVOD/88888888/224/3221226498/index.m3u8
+http://39.135.129.160/TVOD/88888888/224/3221226498/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
 http://39.135.129.170/TVOD/88888888/224/3221226834/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV17.png" group-title="央视频道",CCTV17 农业农村
-http://39.135.129.170/TVOD/88888888/224/3221226594/index.m3u8
+http://39.135.129.133/TVOD/88888888/224/3221226594/index.m3u8
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN.png" group-title="央视频道",CGTN 国际
 https://0472.org/hls/cgtn.m3u8
@@ -53,56 +53,56 @@ https://0472.org/hls/cgtna.m3u8
 
 
 #卫视频道
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
-http://39.135.129.170/TVOD/88888888/224/3221227107/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
+http://39.135.129.151/TVOD/88888888/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视.png" group-title="卫视频道",北京卫视
-http://39.135.129.170/TVOD/88888888/224/3221226449/index.m3u8
+http://39.135.129.144/TVOD/88888888/224/3221226449/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/天津卫视.png" group-title="卫视频道",天津卫视
 http://39.135.129.170/TVOD/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://39.135.129.170/TVOD/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://39.135.129.170/TVOD/88888888/224/3221226638/index.m3u8
+http://39.135.129.152/TVOD/88888888/224/3221226638/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://39.135.129.170/TVOD/88888888/224/3221226480/index.m3u8
+http://39.134.60.203/TVOD/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://39.135.129.170/TVOD/88888888/224/3221226618/index.m3u8
+http://39.135.129.131/TVOD/88888888/224/3221226618/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/东方卫视.png" group-title="卫视频道",东方卫视
 http://39.135.129.170/TVOD/88888888/224/3221226877/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://39.135.129.170/TVOD/88888888/224/3221226447/index.m3u8
+http://39.135.129.154/TVOD/88888888/224/3221226447/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/山东卫视.png" group-title="卫视频道",山东卫视
-http://39.135.129.170/TVOD/88888888/224/3221226486/index.m3u8
+http://39.134.60.209/TVOD/88888888/224/3221226486/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/广东卫视.png" group-title="卫视频道",广东卫视
-http://39.135.129.170/TVOD/88888888/224/3221226476/index.m3u8
+http://39.135.129.152/TVOD/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/东南卫视.png" group-title="卫视频道",东南卫视
-http://39.135.129.170/TVOD/88888888/224/3221226536/index.m3u8
+http://39.135.129.135/TVOD/88888888/224/3221226536/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://39.135.129.170/TVOD/88888888/224/3221226478/index.m3u8
+http://39.135.129.138/TVOD/88888888/224/3221226478/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://39.135.129.170/TVOD/88888888/224/3221226490/index.m3u8
+http://39.135.129.160/TVOD/88888888/224/3221226490/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://39.135.129.170/TVOD/88888888/224/3221226455/index.m3u8
+http://39.135.129.156/TVOD/88888888/224/3221226455/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/四川卫视.png" group-title="卫视频道",四川卫视
-http://39.135.129.170/TVOD/88888888/224/3221226488/index.m3u8
+http://39.135.129.131/TVOD/88888888/224/3221226488/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://39.135.129.170/TVOD/88888888/224/3221226616/index.m3u8
+http://39.135.129.149/TVOD/88888888/224/3221226616/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://39.135.129.170/TVOD/88888888/224/3221226463/index.m3u8
+http://39.135.129.137/TVOD/88888888/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/海南卫视.png" group-title="卫视频道",海南卫视
-http://39.135.129.170/TVOD/88888888/224/3221226585/index.m3u8
+http://39.134.60.209/TVOD/88888888/224/3221226585/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/河南卫视.png" group-title="卫视频道",河南卫视
-http://39.135.129.170/TVOD/88888888/224/3221226491/index.m3u8
+http://39.134.60.209/TVOD/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/广西卫视.png" group-title="卫视频道",广西卫视
-http://39.135.129.170/TVOD/88888888/224/3221226580/index.m3u8
+http://39.135.129.150/TVOD/88888888/224/3221226580/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/河北卫视.png" group-title="卫视频道",河北卫视
-http://39.135.129.170/TVOD/88888888/224/3221226576/index.m3u8
+http://39.135.129.147/TVOD/88888888/224/3221226576/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/云南卫视.png" group-title="卫视频道",云南卫视
-http://39.135.129.170/TVOD/88888888/224/3221226634/index.m3u8
+http://39.134.60.205/TVOD/88888888/224/3221226634/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/江西卫视.png" group-title="卫视频道",江西卫视
 http://39.135.133.176/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
+http://39.135.133.165/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
 
 
 #央视备用
@@ -276,13 +276,16 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226731/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁卫视.png", group-title="卫视频道",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227242/index.m3u8
 
+
 #港·澳·台
 
 #科教纪录
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/动物星球.png" group-title="科教纪录",动物星球
+https://zb.kklive.top/live/dwxq/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="科教纪录",北京纪实科教
-http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
+http://39.135.129.161/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教纪录",金鹰纪实
-http://39.135.129.162/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226714/index.m3u8
+http://39.135.129.149/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录.png" group-title="科教纪录",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教8K.png" group-title="科教纪录",纪实科教8K
@@ -293,6 +296,15 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226730/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226714/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教纪录",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227291/index.m3u8
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索动物.png", group-title="科教纪录",求索动物
+http://39.135.133.156/PLTV/88888888/224/3221225730/1.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索纪录.png", group-title="科教纪录",求索纪录
+http://39.135.133.156/PLTV/88888888/224/3221225713/1.m3u8
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索科学.png", group-title="科教纪录",求索科学
+http://39.135.133.156/PLTV/88888888/224/3221225728/1.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索生活.png", group-title="科教纪录",求索生活
+http://39.135.133.156/PLTV/88888888/224/3221225715/1.m3u8
+
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索动物.png", group-title="科教纪录",求索动物
 http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索纪录.png", group-title="科教纪录",求索纪录
@@ -313,7 +325,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227374/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227447/index.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云音乐.png", group-title="数字频道",CCTV风云音乐
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227502/index.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字频道",CCTV*风云足球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227377/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视高网.png", group-title="数字频道",CCTV高尔夫网球
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227496/index.m3u8
@@ -392,9 +404,9 @@ http://39.135.133.155/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/ind
 
 #动漫少儿
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/新动漫.png" group-title="动漫少儿",新动漫
-http://39.135.129.170/TVOD/88888888/224/3221226501/index.m3u8
+http://39.135.129.158/TVOD/88888888/224/3221226501/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰卡通.png" group-title="动漫少儿",金鹰卡通
-http://39.135.129.170/TVOD/88888888/224/3221226543/index.m3u8
+http://39.135.129.141/TVOD/88888888/224/3221226543/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/浙江少儿.png" group-title="动漫少儿",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/ZooMoo.png" group-title="动漫少儿",ZooMoo
@@ -417,17 +429,17 @@ http://39.135.129.170/TVOD/88888888/224/3221226524/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁影视剧.png" group-title="地方频道",辽宁影视剧
 http://39.135.129.170/TVOD/88888888/224/3221226512/index.m3u8
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁教育青少.png" group-title="地方频道",辽宁教育青少
-http://39.135.129.170/TVOD/88888888/224/3221226473/index.m3u8
+http://39.135.129.153/TVOD/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁生活.png" group-title="地方频道",辽宁生活
-http://39.135.129.170/TVOD/88888888/224/3221226489/index.m3u8
+http://39.135.129.154/TVOD/88888888/224/3221226489/index.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁公共.png" group-title="地方频道",辽宁公共
-http://39.135.129.170/TVOD/88888888/224/3221226528/index.m3u8
+http://39.135.129.138/TVOD/88888888/224/3221226528/index.m3u8
 #EXTINF:-1 tvg-name="辽宁体育休闲" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁体育休闲.png" group-title="地方频道",辽宁体育休闲
-http://39.135.129.170/TVOD/88888888/224/3221226916/index.m3u8
+http://39.135.129.168/TVOD/88888888/224/3221226916/index.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁经济.png" group-title="地方频道",辽宁经济
-http://39.135.129.170/TVOD/88888888/224/3221226504/index.m3u8
+http://39.135.129.133/TVOD/88888888/224/3221226504/index.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁北方.png" group-title="地方频道",辽宁北方
-http://39.135.129.170/TVOD/88888888/224/3221226515/index.m3u8
+http://39.135.129.135/TVOD/88888888/224/3221226515/index.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/梨园频道.png", group-title="地方频道",梨园频道
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227362/index.m3u8
 #EXTINF:-1 tvg-name="书画频道" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/书画频道.png", group-title="地方频道",书画频道
