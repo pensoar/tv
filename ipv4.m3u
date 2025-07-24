@@ -288,8 +288,6 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227242/index.m3u8
 http://39.135.129.161/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教纪录",金鹰纪实
 http://39.135.129.149/hwottcdn.ln.chinamobile.com/TVOD/3/224/3221226714/index.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/之江纪录.png" group-title="科教纪录",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png", group-title="科教纪录",北京纪实科教
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226730/index.m3u8
