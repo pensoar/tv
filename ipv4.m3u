@@ -305,13 +305,13 @@ http://39.135.133.156/PLTV/88888888/224/3221225728/1.m3u8
 http://39.135.133.156/PLTV/88888888/224/3221225715/1.m3u8
 
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索动物.png", group-title="科教纪录",求索动物
-http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221225730/1.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索纪录.png", group-title="科教纪录",求索纪录
-http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221225713/1.m3u8
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索科学.png", group-title="科教纪录",求索科学
-http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221225728/1.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/求索生活.png", group-title="科教纪录",求索生活
-http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221225715/1.m3u8
 
 
 
@@ -366,39 +366,39 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/重温经典.png" group-title="影视体育",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/黑莓电影.png" group-title="影视体育",黑莓电影
-http://39.135.133.138/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV精品体育.png" group-title="影视体育",NewTV精品体育
-http://39.135.133.139/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级体育.png" group-title="影视体育",NewTV超级体育
-http://39.135.133.169/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV军事评论.png" group-title="影视体育",NewTV军事评论
-http://39.135.133.144/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV军旅剧场.png" group-title="影视体育",NewTV军旅剧场
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225676/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV农业致富.png" group-title="影视体育",NewTV农业致富
-http://39.135.133.135/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225683/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV古装剧场.png" group-title="影视体育",NewTV古装剧场
-http://39.135.133.148/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225663/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV惊悚悬疑.png" group-title="影视体育",NewTV惊悚悬疑
-http://39.135.133.139/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-name="明星大片" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV明星大片.png" group-title="影视体育",NewTV明星大片
-http://39.135.133.174/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV欢乐剧场.png" group-title="影视体育",NewTV欢乐剧场
-http://39.135.133.156/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV武搏世界.png" group-title="影视体育",NewTV武搏世界
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV潮妈辣婆.png" group-title="影视体育",NewTV潮妈辣婆
-http://39.135.133.155/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV炫舞未来.png" group-title="影视体育",NewTV炫舞未来
-http://39.135.133.156/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225719/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级电影.png" group-title="影视体育",NewTV超级电影
-http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级电视剧.png" group-title="影视体育",NewTV超级电视剧
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV超级综艺.png" group-title="影视体育",NewTV超级综艺
-http://39.135.133.171/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/NewTV金牌综艺.png" group-title="影视体育",NewTV金牌综艺
-http://39.135.133.155/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
 
 
 #动漫少儿
@@ -411,13 +411,13 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/ZooMoo.png" group-title="动漫少儿",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/黑莓动画.png" group-title="动漫少儿",黑莓动画
-http://39.135.133.133/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
+http://39.134.64.87:6610/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickelodeon.png" group-title="动漫少儿",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/Nickjr.png" group-title="动漫少儿",Nick Jr
 http://178.219.128.68:64888/NICKJR
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江少儿.png" group-title="动漫少儿",黑龙江少儿
-http://39.135.133.138/TVOD/88888888/224/3221225979/1.m3u8
+http://39.134.64.87:6610/TVOD/88888888/224/3221225979/1.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/哈哈炫动.png" group-title="动漫少儿",哈哈炫动
 http://39.135.133.181/TVOD/88888888/224/3221225534/1.m3u8
 
@@ -487,16 +487,6 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227328/index.m3u8
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226738/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁影视剧.png", group-title="地方频道",辽宁影视剧
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227331/index.m3u8
-
-#黑龙江
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江都市.png" group-title="地方频道",黑龙江都市
-http://39.134.67.148/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江农业科教.png" group-title="地方频道",黑龙江农业科教
-http://39.134.67.148/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江文体.png" group-title="地方频道",黑龙江文体
-http://39.134.67.148/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江影视.png" group-title="地方频道",黑龙江影视
-http://39.134.67.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226298/index.m3u8
 
 
 #国际频道
