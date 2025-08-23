@@ -456,30 +456,27 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 
 #游戏赛事
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」CS 2
-https://live.iill.top/bilibili/21622811
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/跑跑卡丁车.png" group-title=" 游戏赛事",「斗鱼」跑跑卡丁车
-https://live.iill.top/douyu/7722576
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/跑跑卡丁车.png" group-title=" 游戏赛事",「斗鱼」跑跑卡丁车 手游
-https://live.iill.top/douyu/6672862
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「B站」英雄联盟
-https://live.iill.top/bilibili/6
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「虎牙」英雄联盟 𝟙
-https://live.iill.top/huya/660000
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「虎牙」英雄联盟 𝟚
-https://live.iill.top/huya/660001
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「斗鱼」英雄联盟 𝟙
-https://live.iill.top/douyu/288016
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/王者荣耀.png" group-title=" 游戏赛事",「B站」王者荣耀 𝟙
-https://live.iill.top/bilibili/55
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/王者荣耀.png" group-title=" 游戏赛事",「B站」王者荣耀 𝟚
-https://live.iill.top/bilibili/21654762
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/王者荣耀.png" group-title=" 游戏赛事",「虎牙」王者荣耀 𝟙
 https://live.iill.top/huya/660002
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/王者荣耀.png" group-title=" 游戏赛事",「虎牙」王者荣耀 𝟚
 https://live.iill.top/huya/660164
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/王者荣耀.png" group-title=" 游戏赛事",「斗鱼」王者荣耀 𝟙
 https://live.iill.top/douyu/1863767
+#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」CS 2
+https://live.iill.top/bilibili/21622811
+#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/跑跑卡丁车.png" group-title=" 游戏赛事",「斗鱼」跑跑卡丁车
+https://live.iill.top/douyu/7722576
+#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/跑跑卡丁车.png" group-title=" 游戏赛事",「斗鱼」跑跑卡丁车 手游
+https://live.iill.top/douyu/6672862
+
+#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「虎牙」英雄联盟 𝟙
+https://live.iill.top/huya/660000
+#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「虎牙」英雄联盟 𝟚
+https://live.iill.top/huya/660001
+#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/英雄联盟.png" group-title=" 游戏赛事",「斗鱼」英雄联盟 𝟙
+https://live.iill.top/douyu/288016
+
+
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/绝地求生.png" group-title=" 游戏赛事",「虎牙」绝地求生 𝟙
 https://live.iill.top/huya/660004
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/绝地求生.png" group-title=" 游戏赛事",「斗鱼」绝地求生
@@ -506,12 +503,10 @@ https://live.iill.top/huya/660101
 https://live.iill.top/douyu/605964
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」穿越火线 手游
 https://live.iill.top/huya/660102
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」第五人格
-https://live.iill.top/bilibili/5555
+
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」第五人格
 https://live.iill.top/douyu/3226194
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/哔哩哔哩.png" group-title=" 游戏赛事",「B站」无畏契约
-https://live.iill.top/bilibili/22908869
+
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/虎牙.png" group-title=" 游戏赛事",「虎牙」无畏契约
 https://live.iill.top/huya/660679
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」无畏契约
@@ -520,8 +515,7 @@ https://live.iill.top/douyu/4585645
 https://live.iill.top/bilibili/21743919
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」QQ飞车 手游
 https://live.iill.top/douyu/5040227
-#EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/JJ斗地主.png" group-title=" 游戏赛事",「B站」JJ斗地主
-https://live.iill.top/bilibili/22021983
+
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/JJ斗地主.png" group-title=" 游戏赛事",「斗鱼」JJ斗地主
 https://live.iill.top/douyu/488743
 #EXTINF:-1 tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/斗鱼.png" group-title=" 游戏赛事",「斗鱼」我的世界
@@ -574,8 +568,6 @@ https://live.iill.top/huya/11342413
 
 
 #直播中国
-#EXTINF:-1 tvg-name="直播中国" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/直播中国.png" group-title="景区直播全网",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="黄山卧云峰" tvg-logo="https://live.fanmingming.cn/tv/黄山卧云峰.png" group-title="景区直播全网",黄山卧云峰
 http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 #EXTINF:-1 tvg-name="遵义赤水大瀑布" tvg-logo="https://live.fanmingming.cn/tv/遵义赤水大瀑布.png" group-title="景区直播全网",遵义赤水大瀑布
