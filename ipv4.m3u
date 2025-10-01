@@ -45,8 +45,6 @@ http://39.135.129.176/hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227516/index.m
 
 
 #卫视频道
-#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
-http://39.135.129.151/PLTV/88888888/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.135.129.144/TVOD/88888888/224/3221226449/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/天津卫视.png" group-title="卫视频道",天津卫视
@@ -172,6 +170,8 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227352/index.m3u8
 
 
 #卫视备用
+#EXTINF:-1 tvg-name="北京卫视4K," tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京卫视4K.png", group-title="卫视频道",北京卫视4K
+http://39.135.129.151/PLTV/88888888/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/广东卫视4K.png", group-title="卫视频道",广东卫视4K
 http://39.135.129.181/hwottcdn.ln.chinamobile.com:80/PLTV/88888890/224/3221227510/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/深圳卫视4K.png", group-title="卫视频道",深圳卫视4K
