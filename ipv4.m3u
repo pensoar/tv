@@ -471,6 +471,27 @@ https://0472.org/hls/cgtna.m3u8
 
 
 #4GTV频道
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="4GTV",台視
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2vvldh
+#EXTINF:-1 tvg-name="台视新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="4GTV",台視新聞
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vuo8sn
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png" group-title="4GTV",中視
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=lb6jjo
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="4GTV",中視新聞
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=59m9xj
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png" group-title="4GTV",華視
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=y1p7cj
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视新闻.png" group-title="4GTV",華視新聞
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=doxlvt
+#EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="4GTV",三立新聞iNEWS
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=9zrb1j
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="4GTV",中天新聞台
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=up3ykb
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="4GTV",寰宇新聞台灣台
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=evia86
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="4GTV",寰宇新聞台
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7k3rqf
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="4GTV",LOVENATURE
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2gome0
 #EXTINF:-1 tvg-name="FUN探索娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FUN探索娱乐.png" group-title="4GTV",FUN探索娛樂台
@@ -557,26 +578,6 @@ https://php.946985.filegear-sg.me/iptv/jacktv.php?id=uvq0nw
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=w17a4t
 #EXTINF:-1 tvg-name="TVBS台剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS台剧.png" group-title="4GTV",TVBS台劇台
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ljaw6y
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="4GTV",台視
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2vvldh
-#EXTINF:-1 tvg-name="台视新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="4GTV",台視新聞
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=vuo8sn
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png" group-title="4GTV",中視
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=lb6jjo
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="4GTV",中視新聞
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=59m9xj
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png" group-title="4GTV",華視
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=y1p7cj
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视新闻.png" group-title="4GTV",華視新聞
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=doxlvt
-#EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立新闻.png" group-title="4GTV",三立新聞iNEWS
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=9zrb1j
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="4GTV",中天新聞台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=up3ykb
-#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="4GTV",寰宇新聞台灣台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=evia86
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="4GTV",寰宇新聞台
-https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7k3rqf
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇财经.png" group-title="4GTV",寰宇財經台
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=gd1ku1
 #EXTINF:-1 tvg-name="国会频道1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国会频道1.png" group-title="4GTV",國會頻道1台
