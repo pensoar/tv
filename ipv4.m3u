@@ -458,10 +458,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN.png" group-title="国际频道",CGTN 国际
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN纪录.png" group-title="国际频道",CGTN Documentary
@@ -474,6 +470,64 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN阿语.png" group-title="国际频道",CGTN 阿语
 https://0472.org/hls/cgtna.m3u8
+
+
+#4GTV频道
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="4GTV",LOVENATURE
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=2gome0
+#EXTINF:-1 tvg-name="FUN探索娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FUN探索娱乐.png" group-title="4GTV",FUN探索娛樂台
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=btrm8y
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELTA生活旅游.png" group-title="4GTV",ELTA生活旅遊
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=fdv4om
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="4GTV",GlobalTrekker
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=onlb5a
+#EXTINF:-1 tvg-name="HITS频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HITS.png" group-title="4GTV",HITS頻道
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=afynub
+#EXTINF:-1 tvg-name="原住民族电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/原住民族.png" group-title="4GTV",原住民族電視台
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=6w1nu7
+#EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/幸福空间居家.png" group-title="4GTV",幸福空間居家台
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7xm4ss
+#EXTINF:-1 tvg-name="历史频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HISTORY历史.png" group-title="4GTV",歷史頻道
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yydx9h
+#EXTINF:-1 tvg-name="MAGELLANTV频道 (麦哲伦频道) " group-title="4GTV",MagellanTV頻道
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ok4b4d
+#EXTINF:-1 tvg-name="车迷TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/车迷TV.png" group-title="4GTV",車迷TV
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=wa0i3t
+#EXTINF:-1 tvg-name="滚动力ROLLOR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/滚动力ROLLOR.png" group-title="4GTV",滾動力Rollor
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=cfym90
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CI罪案侦查.png" group-title="4GTV",CI罪案偵查頻道
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=m2qhgn
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="4GTV",ROCKAction
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=zgxcl2
+#EXTINF:-1 tvg-name="CINEMAWORLD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CINEMAWORLD.png" group-title="4GTV",CinemaWorld
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=rw3a5e
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="4GTV",ROCKEntertainment
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=o3nz0r
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIFETIME.png" group-title="4GTV",Lifetime
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=ilp7in
+#EXTINF:-1 tvg-name="电影原声台CMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电影原声台CMUSIC.png" group-title="4GTV",電影原聲台CMusic
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=tns6d4
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTV.png" group-title="4GTV",MTVLive
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=q6h3qu
+#EXTINF:-1 tvg-name="INULTRA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/INULTRA.png" group-title="4GTV",INULTRA
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=lbzuvw
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LUXETV.png" group-title="4GTV",LUXETV
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=uis4na
+#EXTINF:-1 tvg-name="TV5MONDE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TV5MONDE.png" group-title="4GTV",TV5MONDEStyle
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=mtpp4j
+#EXTINF:-1 tvg-name="LIVEABC互动英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIVEABC互动英语.png" group-title="4GTV",LiveABC互動英語頻道
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=yfs70p
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="4GTV",NickJr.
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=xccs84
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="4GTV",Nickelodeon
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=chsfbx
+#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DREAMWORKS.png" group-title="4GTV",DreamWorks
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=qlw2zj
+#EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOMO亲子.png" group-title="4GTV",MOMO親子
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=omvi8p
+#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选动漫.png" group-title="4GTV",精選動漫台
+https://php.946985.filegear-sg.me/iptv/jacktv.php?id=6oupyx
+#EXTINF:-1 tvg-name="经典卡通台" tvg-logo="https://gcore.jsdelivr.net/gh
 
 
 #游戏赛事
