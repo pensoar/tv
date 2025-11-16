@@ -370,7 +370,12 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 http://178.219.128.68:64888/NICKJR
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/哈哈炫动.png" group-title="动漫少儿",哈哈炫动
 http://39.135.133.181/TVOD/88888888/224/3221225534/1.m3u8
-
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/卡酷少儿.png" group-title="动漫少儿",卡酷少儿
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/优漫卡通.png" group-title="动漫少儿",优漫卡通
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/嘉佳卡通.png" group-title="动漫少儿",嘉佳卡通
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/辽宁都市.png" group-title="地方频道",辽宁都市
