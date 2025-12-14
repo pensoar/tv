@@ -90,9 +90,9 @@ http://39.135.129.147/TVOD/88888888/224/3221226576/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/云南卫视.png" group-title="卫视频道",云南卫视
 http://39.134.60.205/TVOD/88888888/224/3221226634/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/江西卫视.png" group-title="卫视频道",江西卫视
-http://39.135.133.176/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://39.135.133.165/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
 
 
 #央视备用
