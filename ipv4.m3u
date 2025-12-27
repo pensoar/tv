@@ -109,11 +109,11 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227215/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV3.png", group-title="央视频道",CCTV3 综艺
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227402/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV4.png", group-title="央视频道",CCTV4 中文国际
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226899/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV4.png", group-title="央视频道",CCTV4 中文国际
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227324/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV5+.png", group-title="央视频道",CCTV5+ 体育赛事
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226745/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV5+.png", group-title="央视频道",CCTV5+ 体育赛事
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227236/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV5.png", group-title="央视频道",CCTV5 体育
@@ -131,7 +131,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227325/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV8.png", group-title="央视频道",CCTV8 电视剧
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227466/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV9.png", group-title="央视频道",CCTV9 纪录
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226734/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV9.png", group-title="央视频道",CCTV9 纪录
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227337/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV10.png", group-title="央视频道",CCTV10 科教
@@ -139,7 +139,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226702/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV10.png", group-title="央视频道",CCTV10 科教
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227321/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV11.png", group-title="央视频道",CCTV11 戏曲
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226753/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227251/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV11.png", group-title="央视频道",CCTV11 戏曲
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227251/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV12.png", group-title="央视频道",CCTV12 社会与法
@@ -159,11 +159,11 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226796/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV15.png", group-title="央视频道",CCTV15 音乐
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227361/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV16.png", group-title="央视频道",CCTV16 奥林匹克
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227074/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV16.png", group-title="央视频道",CCTV16 奥林匹克
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227346/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV17.png", group-title="央视频道",CCTV17 农业农村
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226841/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV17.png", group-title="央视频道",CCTV17 农业农村
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227352/index.m3u8
 
@@ -216,7 +216,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226743/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/广东卫视.png", group-title="卫视频道",广东卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227318/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/广西卫视.png", group-title="卫视频道",广西卫视
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226830/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/广西卫视.png", group-title="卫视频道",广西卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227411/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/贵州卫视.png", group-title="卫视频道",贵州卫视
@@ -224,11 +224,11 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226874/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/海南卫视.png", group-title="卫视频道",海南卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226801/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/河北卫视.png", group-title="卫视频道",河北卫视
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226774/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227615/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/河北卫视.png", group-title="卫视频道",河北卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227408/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/河南卫视.png", group-title="卫视频道",河南卫视
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226791/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227595/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/河南卫视.png", group-title="卫视频道",河南卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227353/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/黑龙江卫视.png", group-title="卫视频道",黑龙江卫视
@@ -252,7 +252,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226902/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/江苏卫视.png", group-title="卫视频道",江苏卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227303/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/江西卫视.png", group-title="卫视频道",江西卫视
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226788/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227598/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/江西卫视.png", group-title="卫视频道",江西卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227475/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/山东卫视.png", group-title="卫视频道",山东卫视
@@ -272,7 +272,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/天津卫视.png", group-title="卫视频道",天津卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227306/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/云南卫视.png", group-title="卫视频道",云南卫视
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221226816/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227530/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/云南卫视.png", group-title="卫视频道",云南卫视
 http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227356/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/浙江卫视.png", group-title="卫视频道",浙江卫视
