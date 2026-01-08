@@ -2,7 +2,9 @@
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,dnsdblookup.com
 DOMAIN,fun.esnad.dpdns.org
+DOMAIN-SUFFIX,gemini.google.com
 # 代理关键字
+DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,redtube
@@ -112,3 +114,4 @@ DOMAIN-KEYWORD,yanqing
 DOMAIN-KEYWORD,yanse
 DOMAIN-KEYWORD,无码
 DOMAIN-KEYWORD,有码
+
