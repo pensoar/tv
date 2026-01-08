@@ -479,14 +479,6 @@ http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227331/index.m3u8
 
 
 #国际频道
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/凤凰资讯.png" group-title="国际频道",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/CNA.png" group-title="国际频道",CNA-亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/BBCNews.png" group-title="国际频道",BBCNews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/CNN.png" group-title="国际频道",CNN
@@ -494,6 +486,11 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-name="Trace Sports" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/TRACESportStars.png" group-title="国际频道",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/CNA.png" group-title="国际频道",CNA-亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/半岛新闻.png" group-title="国际频道",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN.png" group-title="国际频道",CGTN 国际
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CGTN纪录.png" group-title="国际频道",CGTN Documentary
