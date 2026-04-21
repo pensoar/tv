@@ -130,7 +130,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV16.png", group-title="央视频道",CCTV16 奥林匹克
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV17.png", group-title="央视频道",CCTV17 农业农村
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV1.png", group-title="央视频道",CCTV1 综合
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8?servicetype=1
@@ -167,7 +167,7 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227361/index.m3u8?servicet
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV16.png", group-title="央视频道",CCTV16 奥林匹克
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV17.png", group-title="央视频道",CCTV17 农业农村
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8?servicetype=1
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227552/index.m3u8?servicetype=1
 
 
 
