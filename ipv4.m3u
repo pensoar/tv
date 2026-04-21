@@ -321,62 +321,58 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8?servicet
 
 #科教纪录
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png" group-title="科教纪录",北京纪实科教
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教纪录",金鹰纪实
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227700/index.m3u8
 
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png", group-title="科教纪录",北京纪实科教
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227566/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教纪录",金鹰纪实
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教纪录",金鹰纪实
-http://hwottcdn.ln.chinamobile.com/TVOD/-/224/3221227291/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227661/index.m3u8
 
 
 
 #数字剧场
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV第一剧场.png", group-title="数字剧场",CCTV第一剧场
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227444/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227730/index.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV电视指南.png", group-title="数字剧场",CCTV电视指南
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227374/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227748/index.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云剧场.png", group-title="数字剧场",CCTV风云剧场
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227447/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227736/index.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云音乐.png", group-title="数字剧场",CCTV风云音乐
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227502/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227641/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV风云足球.png", group-title="数字剧场",CCTV*风云足球
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227377/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227638/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视高网.png", group-title="数字剧场",CCTV高尔夫网球
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227496/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV怀旧剧场.png", group-title="数字剧场",CCTV怀旧剧场
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227499/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227733/index.m3u8
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV女性时尚.png", group-title="数字剧场",CCTV女性时尚
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227508/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227742/index.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV世界地理.png", group-title="数字剧场",CCTV世界地理
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227450/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227739/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV央视台球.png", group-title="数字剧场",CCTV央视台球
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227380/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227711/index.m3u8
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV文化精品.png", group-title="数字剧场",CCTV央视文化精品
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227505/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227644/index.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CCTV兵器科技.png", group-title="数字剧场",CCTV兵器科技
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227453/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227647/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CHC动作电影.png", group-title="数字剧场",CHC动作电影
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227432/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CHC家庭影院.png", group-title="数字剧场",CHC家庭影院
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227368/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/CHC影迷电影.png", group-title="数字剧场",CHC影迷电影
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227490/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/家庭理财.png", group-title="数字剧场",家庭理财
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221226754/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/睛彩广场舞.png", group-title="数字剧场",睛彩广场舞
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227423/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/睛彩竞技.png", group-title="数字剧场",睛彩竞技
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227417/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/睛彩篮球.png", group-title="数字剧场",睛彩篮球
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227478/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/睛彩篮球.png" group-title="数字剧场",睛彩篮球
-http://39.135.133.162/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/睛彩青少.png", group-title="数字剧场",睛彩青少
-http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227420/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
 #EXTINF:-1 tvg-name="至臻视界4K" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/至臻视界.png", group-title="数字剧场",至臻视界-4K
 http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
 
