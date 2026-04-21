@@ -324,12 +324,10 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8?servicet
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png" group-title="科教纪录",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227700/index.m3u8
-
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/北京纪实科教.png", group-title="科教纪录",北京纪实科教
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227566/index.m3u8
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰纪实.png", group-title="科教纪录",金鹰纪实
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227661/index.m3u8
-
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227700/index.m3u8?servicetype=1
 
 
 #数字剧场
@@ -381,7 +379,7 @@ http://hwottcdn.ln.chinamobile.com/TVOD/11/224/3221227393/index.m3u8
 
 #动漫少儿
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo2/新动漫.png" group-title="动漫少儿",新动漫
-http://39.135.129.158/TVOD/88888888/224/3221226501/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/金鹰卡通.png" group-title="动漫少儿",金鹰卡通
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/浙江少儿.png" group-title="动漫少儿",浙江少儿
@@ -397,7 +395,7 @@ http://39.135.133.181/TVOD/88888888/224/3221225534/1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/卡酷少儿.png" group-title="动漫少儿",卡酷少儿
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/优漫卡通.png" group-title="动漫少儿",优漫卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://ghup.pages.dev/pensoar/tv/main/logo1/嘉佳卡通.png" group-title="动漫少儿",嘉佳卡通
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
 
