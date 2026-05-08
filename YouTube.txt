@@ -1,0 +1,16 @@
+油管新闻频道,#genre#
+中天新闻,http://A/ku9/js/webview.js?id=https://m.youtube.com/watch?v=aNDTyFIYdoM&pp=uAQw
+东森新闻,http://A/ku9/js/webview.js?id=https://m.youtube.com/watch?v=V1p33hqPrUk&pp=uAQw
+TVBS新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=m_dhMSvUCIc
+东森新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=V1p33hqPrUk
+东森财经,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=1I2iq41Akmo
+民视新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=QsGswQvRmtU
+三立财经,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=pF507BLtbqU
+中天新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=vr3XyVCR4T0
+华视新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中视新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=TCnaIE_SAtM
+台视新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇台湾,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=w87VGpgd90U
+镜新闻,http://A/ku9/js/webview.js?id=https://www.youtube.com/watch?v=5n0y6b0Q25o
