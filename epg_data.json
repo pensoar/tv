@@ -218,7 +218,7 @@
     {
       "epgid": "BBCEARTH",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png",
-      "name": "018BBCEARTH,110BBCEARTH,BBCEARTH,BBC地球,[TW]BBCEARTH"
+      "name": "018BBCEARTH,110BBCEARTH,BBCEARTH,BBC地球,[TW]BBCEARTH,BBCEarth,BBC Earth"
     },
     {
       "epgid": "BBCLIFESTYLE",
@@ -228,7 +228,7 @@
     {
       "epgid": "BBCNEWS",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCNEWS.png",
-      "name": "BBCNEWS"
+      "name": "BBCNEWS,BBC News,BBCNews,BBC新闻"
     },
     {
       "epgid": "BBCWORLDNEWS",
@@ -688,7 +688,7 @@
     {
       "epgid": "CHANNELNEWSASIA",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHANNELNEWSASIA.png",
-      "name": "153CHANNELNEWSASIA,153CHANNELNEWSASIA台,153CHANNELNEWSASIA臺,CHANNELNEWSASIA,CHANNELNEWSASIA台,CHANNELNEWSASIA臺,亚洲新闻台,亞洲新聞臺,新加坡_CNA,新加坡_CNA台,新加坡_CNA臺"
+      "name": "153CHANNELNEWSASIA,153CHANNELNEWSASIA台,153CHANNELNEWSASIA臺,CHANNELNEWSASIA,CHANNELNEWSASIA台,CHANNELNEWSASIA臺,亚洲新闻台,亞洲新聞臺,新加坡_CNA,新加坡_CNA台,新加坡_CNA臺,CNA"
     },
     {
       "epgid": "CHANNELV",
@@ -6843,7 +6843,7 @@
     {
       "epgid": "半岛新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛新闻.png",
-      "name": "半岛新闻"
+      "name": "半岛新闻,半岛新闻台,半岛新闻频道"
     },
     {
       "epgid": "半岛电视台英语",
